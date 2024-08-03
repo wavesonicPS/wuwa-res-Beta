@@ -1,0 +1,104 @@
+[
+{
+	"Block": "3_-3",
+	"MultiMapList": [
+		1,
+		2
+	],
+	"MultiMapRangeList": [
+		{
+			"ArrayInt": [
+				370,
+				0,
+				550,
+				100
+			]
+		},
+		{
+			"ArrayInt": [
+				775,
+				125,
+				850,
+				225
+			]
+		}
+	]
+},
+{
+	"Block": "3_-4",
+	"MultiMapList": [
+		1
+	],
+	"MultiMapRangeList": [
+		{
+			"ArrayInt": [
+				350,
+				700,
+				575,
+				850
+			]
+		}
+	]
+},
+{
+	"Block": "4_-3",
+	"MultiMapList": [
+		2,
+		3
+	],
+	"MultiMapRangeList": [
+		{
+			"ArrayInt": [
+				0,
+				75,
+				150,
+				210,
+				150,
+				0,
+				200,
+				210,
+				200,
+				0,
+				260,
+				100
+			]
+		},
+		{
+			"ArrayInt": [
+				0,
+				375,
+				50,
+				575,
+				50,
+				300,
+				100,
+				525,
+				100,
+				300,
+				150,
+				475,
+				150,
+				375,
+				200,
+				465
+			]
+		}
+	]
+},
+{
+	"Block": "4_-4",
+	"MultiMapList": [
+		2
+	],
+	"MultiMapRangeList": [
+		{
+			"ArrayInt": [
+				175,
+				830,
+				250,
+				850
+			]
+		}
+	]
+}
+]

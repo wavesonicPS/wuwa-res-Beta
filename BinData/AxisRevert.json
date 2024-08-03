@@ -1,0 +1,54 @@
+[
+{
+	"Id": 1,
+	"RevertType": 1,
+	"AxisName": "LookUp",
+	"RevertInfo": {
+		"Gamepad_RightY": 0,
+		"MouseY": 1
+	}
+},
+{
+	"Id": 2,
+	"RevertType": 0,
+	"AxisName": "Turn",
+	"RevertInfo": {
+		"Gamepad_RightX": 0,
+		"MouseX": 0
+	}
+},
+{
+	"Id": 3,
+	"RevertType": 1,
+	"AxisName": "RoleLookUp",
+	"RevertInfo": {
+		"Gamepad_RightY": 0
+	}
+},
+{
+	"Id": 4,
+	"RevertType": 0,
+	"AxisName": "RoleTurn",
+	"RevertInfo": {
+		"Gamepad_RightX": 0
+	}
+},
+{
+	"Id": 5,
+	"RevertType": 1,
+	"AxisName": "UiLookUp",
+	"RevertInfo": {
+		"Gamepad_RightY": 0,
+		"MouseY": 0
+	}
+},
+{
+	"Id": 6,
+	"RevertType": 0,
+	"AxisName": "UiTurn",
+	"RevertInfo": {
+		"Gamepad_RightX": 0,
+		"MouseX": 0
+	}
+}
+]

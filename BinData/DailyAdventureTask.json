@@ -1,0 +1,209 @@
+[
+{
+	"TaskId": 1001,
+	"TaskTitle": "ActivityAdventureTask_1001_Title",
+	"TaskDescription": "ActivityAdventureTask_1001_Desc",
+	"TaskReward": {
+		"13": 10
+	},
+	"TaskFunc": [
+		"4",
+		"830003"
+	]
+},
+{
+	"TaskId": 1002,
+	"TaskTitle": "ActivityAdventureTask_1002_Title",
+	"TaskDescription": "ActivityAdventureTask_1002_Desc",
+	"TaskReward": {
+		"13": 10
+	},
+	"TaskFunc": [
+		"1"
+	]
+},
+{
+	"TaskId": 1003,
+	"TaskTitle": "ActivityAdventureTask_1003_Title",
+	"TaskDescription": "ActivityAdventureTask_1003_Desc",
+	"TaskReward": {
+		"13": 10
+	},
+	"TaskFunc": [
+		"1"
+	]
+},
+{
+	"TaskId": 1004,
+	"TaskTitle": "ActivityAdventureTask_1004_Title",
+	"TaskDescription": "ActivityAdventureTask_1004_Desc",
+	"TaskReward": {
+		"13": 10
+	},
+	"TaskFunc": [
+		"4",
+		"830002"
+	]
+},
+{
+	"TaskId": 1005,
+	"TaskTitle": "ActivityAdventureTask_1005_Title",
+	"TaskDescription": "ActivityAdventureTask_1005_Desc",
+	"TaskReward": {
+		"13": 10
+	},
+	"TaskFunc": [
+		"4",
+		"830000"
+	]
+},
+{
+	"TaskId": 1006,
+	"TaskTitle": "ActivityAdventureTask_1006_Title",
+	"TaskDescription": "ActivityAdventureTask_1006_Desc",
+	"TaskReward": {
+		"13": 10
+	},
+	"TaskFunc": [
+		"1"
+	]
+},
+{
+	"TaskId": 1007,
+	"TaskTitle": "ActivityAdventureTask_1007_Title",
+	"TaskDescription": "ActivityAdventureTask_1007_Desc",
+	"TaskReward": {
+		"13": 10
+	},
+	"TaskFunc": [
+		"1"
+	]
+},
+{
+	"TaskId": 1008,
+	"TaskTitle": "ActivityAdventureTask_1008_Title",
+	"TaskDescription": "ActivityAdventureTask_1008_Desc",
+	"TaskReward": {
+		"13": 10
+	},
+	"TaskFunc": [
+		"1"
+	]
+},
+{
+	"TaskId": 1009,
+	"TaskTitle": "ActivityAdventureTask_1009_Title",
+	"TaskDescription": "ActivityAdventureTask_1009_Desc",
+	"TaskReward": {
+		"13": 10
+	},
+	"TaskFunc": [
+		"1"
+	]
+},
+{
+	"TaskId": 1010,
+	"TaskTitle": "ActivityAdventureTask_1010_Title",
+	"TaskDescription": "ActivityAdventureTask_1010_Desc",
+	"TaskReward": {
+		"13": 10
+	},
+	"TaskFunc": [
+		"1"
+	]
+},
+{
+	"TaskId": 1011,
+	"TaskTitle": "ActivityAdventureTask_1011_Title",
+	"TaskDescription": "ActivityAdventureTask_1011_Desc",
+	"TaskReward": {
+		"13": 10
+	},
+	"TaskFunc": [
+		"3",
+		"RolePhantomTabView"
+	]
+},
+{
+	"TaskId": 1012,
+	"TaskTitle": "ActivityAdventureTask_1012_Title",
+	"TaskDescription": "ActivityAdventureTask_1012_Desc",
+	"TaskReward": {
+		"13": 10
+	},
+	"TaskFunc": [
+		"3",
+		"RolePhantomTabView"
+	]
+},
+{
+	"TaskId": 1015,
+	"TaskTitle": "ActivityAdventureTask_1015_Title",
+	"TaskDescription": "ActivityAdventureTask_1015_Desc",
+	"TaskReward": {
+		"13": 10
+	},
+	"TaskFunc": [
+		"4",
+		"830001"
+	]
+},
+{
+	"TaskId": 1016,
+	"TaskTitle": "ActivityAdventureTask_1016_Title",
+	"TaskDescription": "ActivityAdventureTask_1016_Desc",
+	"TaskReward": {
+		"13": 10
+	},
+	"TaskFunc": [
+		"1"
+	]
+},
+{
+	"TaskId": 1017,
+	"TaskTitle": "ActivityAdventureTask_1017_Title",
+	"TaskDescription": "ActivityAdventureTask_1017_Desc",
+	"TaskReward": {
+		"13": 10
+	},
+	"TaskFunc": [
+		"1"
+	]
+},
+{
+	"TaskId": 1018,
+	"TaskTitle": "ActivityAdventureTask_1018_Title",
+	"TaskDescription": "ActivityAdventureTask_1018_Desc",
+	"TaskReward": {
+		"13": 10
+	},
+	"TaskFunc": [
+		"4",
+		"830004"
+	]
+},
+{
+	"TaskId": 1013,
+	"TaskTitle": "ActivityAdventureTask_1013_Title",
+	"TaskDescription": "ActivityAdventureTask_1013_Desc",
+	"TaskReward": {
+		"13": 10
+	},
+	"TaskFunc": [
+		"3",
+		"RoleAttributeTabView"
+	]
+},
+{
+	"TaskId": 1014,
+	"TaskTitle": "ActivityAdventureTask_1014_Title",
+	"TaskDescription": "ActivityAdventureTask_1014_Desc",
+	"TaskReward": {
+		"13": 10
+	},
+	"TaskFunc": [
+		"3",
+		"RoleWeaponTabView"
+	]
+}
+]

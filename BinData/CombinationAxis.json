@@ -1,0 +1,20 @@
+[
+{
+	"Id": 1,
+	"AxisName": "Zoom",
+	"AxisType": 1,
+	"PcKeyMap": {},
+	"GamepadKeyMap": {
+		"Gamepad_LeftTriggerAxis": "Gamepad_LeftShoulder",
+		"Gamepad_RightTriggerAxis": "Gamepad_LeftShoulder"
+	},
+	"SecondaryKeyScaleMap": {
+		"Up": 1,
+		"Down": -1,
+		"Gamepad_LeftTriggerAxis": -80,
+		"Gamepad_RightTriggerAxis": 80
+	},
+	"MobileIconPath": "",
+	"DisplayName": ""
+}
+]

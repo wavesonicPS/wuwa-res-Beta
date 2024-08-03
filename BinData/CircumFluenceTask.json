@@ -1,0 +1,50 @@
+[
+{
+	"Id": 1,
+	"TargetName": "RecallActivity_Task_Story",
+	"TaskType": 0,
+	"TaskSubType": 1,
+	"TargetReward": 5050101,
+	"TargetFunc": 0
+},
+{
+	"Id": 2,
+	"TargetName": "RecallActivity_Task_Role",
+	"TaskType": 0,
+	"TaskSubType": 2,
+	"TargetReward": 5050102,
+	"TargetFunc": 0
+},
+{
+	"Id": 3,
+	"TargetName": "RecallActivity_Task_Area_01",
+	"TaskType": 1,
+	"TaskSubType": 3,
+	"TargetReward": 5050103,
+	"TargetFunc": 0
+},
+{
+	"Id": 4,
+	"TargetName": "RecallActivity_Task_Area_02",
+	"TaskType": 1,
+	"TaskSubType": 3,
+	"TargetReward": 5050103,
+	"TargetFunc": 0
+},
+{
+	"Id": 5,
+	"TargetName": "RecallActivity_Task_Area_03",
+	"TaskType": 1,
+	"TaskSubType": 3,
+	"TargetReward": 5050103,
+	"TargetFunc": 0
+},
+{
+	"Id": 6,
+	"TargetName": "RecallActivity_Task_Power",
+	"TaskType": 2,
+	"TaskSubType": 4,
+	"TargetReward": 5050104,
+	"TargetFunc": 0
+}
+]

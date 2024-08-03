@@ -1,0 +1,218 @@
+[
+{
+	"Id": 1,
+	"ActivityId": 101500001,
+	"GroupId": 0,
+	"RewardItem": {
+		"3": 120
+	},
+	"IsSpecial": true
+},
+{
+	"Id": 2,
+	"ActivityId": 101500001,
+	"GroupId": 0,
+	"RewardItem": {
+		"2": 40000
+	},
+	"IsSpecial": false
+},
+{
+	"Id": 3,
+	"ActivityId": 101500001,
+	"GroupId": 0,
+	"RewardItem": {
+		"10800": 2
+	},
+	"IsSpecial": false
+},
+{
+	"Id": 4,
+	"ActivityId": 101500001,
+	"GroupId": 0,
+	"RewardItem": {
+		"36000014": 20
+	},
+	"IsSpecial": false
+},
+{
+	"Id": 5,
+	"ActivityId": 101500001,
+	"GroupId": 0,
+	"RewardItem": {
+		"80000027": 2
+	},
+	"IsSpecial": false
+},
+{
+	"Id": 6,
+	"ActivityId": 101500001,
+	"GroupId": 0,
+	"RewardItem": {
+		"43010004": 4
+	},
+	"IsSpecial": false
+},
+{
+	"Id": 7,
+	"ActivityId": 101500001,
+	"GroupId": 0,
+	"RewardItem": {
+		"42500070": 1
+	},
+	"IsSpecial": false
+},
+{
+	"Id": 8,
+	"ActivityId": 101500001,
+	"GroupId": 0,
+	"RewardItem": {
+		"43020004": 4
+	},
+	"IsSpecial": false
+},
+{
+	"Id": 9,
+	"ActivityId": 101500001,
+	"GroupId": 1,
+	"RewardItem": {
+		"3": 160
+	},
+	"IsSpecial": true
+},
+{
+	"Id": 10,
+	"ActivityId": 101500001,
+	"GroupId": 1,
+	"RewardItem": {
+		"2": 60000
+	},
+	"IsSpecial": false
+},
+{
+	"Id": 11,
+	"ActivityId": 101500001,
+	"GroupId": 1,
+	"RewardItem": {
+		"36000014": 20
+	},
+	"IsSpecial": false
+},
+{
+	"Id": 12,
+	"ActivityId": 101500001,
+	"GroupId": 1,
+	"RewardItem": {
+		"80000028": 2
+	},
+	"IsSpecial": false
+},
+{
+	"Id": 13,
+	"ActivityId": 101500001,
+	"GroupId": 1,
+	"RewardItem": {
+		"42500070": 1
+	},
+	"IsSpecial": false
+},
+{
+	"Id": 14,
+	"ActivityId": 101500001,
+	"GroupId": 1,
+	"RewardItem": {
+		"36000004": 8
+	},
+	"IsSpecial": false
+},
+{
+	"Id": 15,
+	"ActivityId": 101500001,
+	"GroupId": 1,
+	"RewardItem": {
+		"2": 40000
+	},
+	"IsSpecial": false
+},
+{
+	"Id": 16,
+	"ActivityId": 101500001,
+	"GroupId": 1,
+	"RewardItem": {
+		"43020004": 4
+	},
+	"IsSpecial": false
+},
+{
+	"Id": 17,
+	"ActivityId": 101500001,
+	"GroupId": 2,
+	"RewardItem": {
+		"50001": 5
+	},
+	"IsSpecial": true
+},
+{
+	"Id": 18,
+	"ActivityId": 101500001,
+	"GroupId": 2,
+	"RewardItem": {
+		"3": 60
+	},
+	"IsSpecial": false
+},
+{
+	"Id": 19,
+	"ActivityId": 101500001,
+	"GroupId": 2,
+	"RewardItem": {
+		"10800": 3
+	},
+	"IsSpecial": false
+},
+{
+	"Id": 20,
+	"ActivityId": 101500001,
+	"GroupId": 2,
+	"RewardItem": {
+		"2": 60000
+	},
+	"IsSpecial": false
+},
+{
+	"Id": 21,
+	"ActivityId": 101500001,
+	"GroupId": 2,
+	"RewardItem": {
+		"3": 60
+	},
+	"IsSpecial": false
+},
+{
+	"Id": 22,
+	"ActivityId": 101500001,
+	"GroupId": 2,
+	"RewardItem": {
+		"36000014": 20
+	},
+	"IsSpecial": false
+},
+{
+	"Id": 23,
+	"ActivityId": 101500001,
+	"GroupId": 2,
+	"RewardItem": {
+		"80000030": 2
+	},
+	"IsSpecial": false
+},
+{
+	"Id": 24,
+	"ActivityId": 101500001,
+	"GroupId": 2,
+	"RewardItem": {
+		"43010004": 4
+	},
+	"IsSpecial": false
+}
+]
