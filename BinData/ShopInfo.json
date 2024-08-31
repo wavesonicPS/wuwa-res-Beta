@@ -135,6 +135,16 @@
 	"ShopName": "ShopInfo_116_ShopName",
 	"OpenId": 0,
 	"ShowCurrency": [
+		15
+	],
+	"DialogueText": ""
+},
+{
+	"Id": 117,
+	"ShopType": 1,
+	"ShopName": "ShopInfo_117_ShopName",
+	"OpenId": 0,
+	"ShowCurrency": [
 		2
 	],
 	"DialogueText": ""

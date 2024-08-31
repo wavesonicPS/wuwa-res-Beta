@@ -1350,5 +1350,82 @@
 	},
 	"ProgressNeed": 1,
 	"SaveRecord": true
+},
+{
+	"Id": 20010,
+	"LimitParams": {
+		"Id": "1503"
+	},
+	"ProgressNeed": 1,
+	"SaveRecord": true
+},
+{
+	"Id": 20011,
+	"LimitParams": {
+		"Id": "1504"
+	},
+	"ProgressNeed": 1,
+	"SaveRecord": true
+},
+{
+	"Id": 20012,
+	"LimitParams": {
+		"Id": "1505"
+	},
+	"ProgressNeed": 1,
+	"SaveRecord": true
+},
+{
+	"Id": 20013,
+	"LimitParams": {
+		"Id": "1506"
+	},
+	"ProgressNeed": 1,
+	"SaveRecord": true
+},
+{
+	"Id": 30001,
+	"LimitParams": {
+		"DragonPoolId": "3",
+		"level": "1"
+	},
+	"ProgressNeed": 1,
+	"SaveRecord": true
+},
+{
+	"Id": 30002,
+	"LimitParams": {
+		"DragonPoolId": "3",
+		"level": "2"
+	},
+	"ProgressNeed": 1,
+	"SaveRecord": true
+},
+{
+	"Id": 30003,
+	"LimitParams": {
+		"DragonPoolId": "3",
+		"level": "3"
+	},
+	"ProgressNeed": 1,
+	"SaveRecord": true
+},
+{
+	"Id": 30004,
+	"LimitParams": {
+		"DragonPoolId": "3",
+		"level": "4"
+	},
+	"ProgressNeed": 1,
+	"SaveRecord": true
+},
+{
+	"Id": 30005,
+	"LimitParams": {
+		"DragonPoolId": "3",
+		"level": "5"
+	},
+	"ProgressNeed": 1,
+	"SaveRecord": true
 }
 ]

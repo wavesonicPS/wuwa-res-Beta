@@ -333,7 +333,7 @@
 	"UnLockCondition": 12100022,
 	"JumpType": 2,
 	"JumpParam": 11,
-	"ExPropertyCurve": 3,
+	"ExPropertyCurve": 2,
 	"Type": 0,
 	"MapSortId": 13,
 	"FailDialog": "Moonfiesta_FailDialog13",

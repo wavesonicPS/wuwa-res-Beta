@@ -59,7 +59,7 @@
 	"PrevTaskId": 880700004,
 	"Icon": "",
 	"UnlockTip": "Moonfiesta_MainQuestTip2",
-	"TaskName": "Moonfiesta_MainQuestName6",
+	"TaskName": "Moonfiesta_MainQuestName7",
 	"TaskType": 1
 },
 {
@@ -68,7 +68,7 @@
 	"PrevTaskId": 880700004,
 	"Icon": "",
 	"UnlockTip": "Moonfiesta_MainQuestTip2",
-	"TaskName": "Moonfiesta_MainQuestName7",
+	"TaskName": "Moonfiesta_MainQuestName6",
 	"TaskType": 1
 }
 ]

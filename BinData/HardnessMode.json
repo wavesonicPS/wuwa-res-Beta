@@ -4604,5 +4604,103 @@
 		1
 	],
 	"Percent": 10000
+},
+{
+	"Id": 10080020,
+	"ReductionData": [
+		1,
+		1,
+		1,
+		1,
+		1,
+		1,
+		1
+	],
+	"AttackTypeData": [
+		0,
+		1,
+		1,
+		1,
+		1,
+		1,
+		1,
+		1,
+		1
+	],
+	"CorrectData": [
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0
+	],
+	"WeaponReduction": [
+		1,
+		1,
+		1,
+		1,
+		1
+	],
+	"SkillTypeParam": [
+		1,
+		1,
+		1,
+		1,
+		1,
+		1,
+		1
+	],
+	"Percent": 0
+},
+{
+	"Id": 20080020,
+	"ReductionData": [
+		1,
+		1,
+		1,
+		1,
+		1,
+		1,
+		1
+	],
+	"AttackTypeData": [
+		0,
+		1,
+		1,
+		1,
+		1,
+		1,
+		1,
+		1,
+		1
+	],
+	"CorrectData": [
+		1,
+		0,
+		0,
+		1,
+		0.125,
+		1,
+		1
+	],
+	"WeaponReduction": [
+		1,
+		1,
+		1,
+		1,
+		1
+	],
+	"SkillTypeParam": [
+		1,
+		1,
+		1,
+		1,
+		1,
+		1,
+		1
+	],
+	"Percent": 10000
 }
 ]

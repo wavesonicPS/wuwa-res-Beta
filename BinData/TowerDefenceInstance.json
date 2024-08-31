@@ -5,9 +5,7 @@
 	"ActivityId": 100105523,
 	"SortId": 0,
 	"OptionalBuff": [
-		1,
-		2,
-		3
+		2
 	],
 	"OpenDay": 0,
 	"Condition": 0,
@@ -15,7 +13,8 @@
 	"RewardScore": 500,
 	"LevelRewardDesc": "",
 	"BaseEntityId": 221700476,
-	"UnlockScoreLimit": 1000
+	"UnlockScoreLimit": 1000,
+	"IsDifficult": false
 },
 {
 	"Id": 2,
@@ -23,12 +22,9 @@
 	"ActivityId": 100105523,
 	"SortId": 0,
 	"OptionalBuff": [
-		1,
 		2,
 		3,
-		4,
-		5,
-		6
+		5
 	],
 	"OpenDay": 0,
 	"Condition": 0,
@@ -36,7 +32,8 @@
 	"RewardScore": 900,
 	"LevelRewardDesc": "",
 	"BaseEntityId": 221700351,
-	"UnlockScoreLimit": 3500
+	"UnlockScoreLimit": 3500,
+	"IsDifficult": false
 },
 {
 	"Id": 3,
@@ -44,10 +41,7 @@
 	"ActivityId": 100105523,
 	"SortId": 0,
 	"OptionalBuff": [
-		4,
-		5,
-		6,
-		7,
+		1,
 		8,
 		9
 	],
@@ -56,8 +50,9 @@
 	"RewardId": 5050303,
 	"RewardScore": 1350,
 	"LevelRewardDesc": "",
-	"BaseEntityId": 221700391,
-	"UnlockScoreLimit": 7000
+	"BaseEntityId": 221700493,
+	"UnlockScoreLimit": 7000,
+	"IsDifficult": false
 },
 {
 	"Id": 4,
@@ -65,13 +60,10 @@
 	"ActivityId": 100105523,
 	"SortId": 0,
 	"OptionalBuff": [
-		1,
 		2,
 		3,
-		4,
 		5,
-		6,
-		7,
+		1,
 		8,
 		9
 	],
@@ -80,8 +72,9 @@
 	"RewardId": 5050304,
 	"RewardScore": 1350,
 	"LevelRewardDesc": "",
-	"BaseEntityId": 221700493,
-	"UnlockScoreLimit": 11000
+	"BaseEntityId": 221700391,
+	"UnlockScoreLimit": 11000,
+	"IsDifficult": false
 },
 {
 	"Id": 5,
@@ -102,9 +95,295 @@
 	"OpenDay": 6,
 	"Condition": 0,
 	"RewardId": 5050305,
-	"RewardScore": 3000,
+	"RewardScore": 4000,
 	"LevelRewardDesc": "",
 	"BaseEntityId": 221700516,
-	"UnlockScoreLimit": 18000
+	"UnlockScoreLimit": 30000,
+	"IsDifficult": false
+},
+{
+	"Id": 7,
+	"InstanceId": 8181,
+	"ActivityId": 101900001,
+	"SortId": 0,
+	"OptionalBuff": [
+		11,
+		12,
+		19,
+		13,
+		17
+	],
+	"OpenDay": 1,
+	"Condition": 0,
+	"RewardId": 5060402,
+	"RewardScore": 2000,
+	"LevelRewardDesc": "",
+	"BaseEntityId": 0,
+	"UnlockScoreLimit": 30000,
+	"IsDifficult": false
+},
+{
+	"Id": 6,
+	"InstanceId": 8180,
+	"ActivityId": 101900001,
+	"SortId": 0,
+	"OptionalBuff": [
+		11,
+		12,
+		19,
+		13
+	],
+	"OpenDay": 0,
+	"Condition": 0,
+	"RewardId": 5060401,
+	"RewardScore": 2000,
+	"LevelRewardDesc": "",
+	"BaseEntityId": 0,
+	"UnlockScoreLimit": 30000,
+	"IsDifficult": false
+},
+{
+	"Id": 8,
+	"InstanceId": 8182,
+	"ActivityId": 101900001,
+	"SortId": 0,
+	"OptionalBuff": [
+		11,
+		12,
+		19,
+		13,
+		17,
+		15
+	],
+	"OpenDay": 2,
+	"Condition": 0,
+	"RewardId": 5060403,
+	"RewardScore": 2000,
+	"LevelRewardDesc": "",
+	"BaseEntityId": 0,
+	"UnlockScoreLimit": 30000,
+	"IsDifficult": false
+},
+{
+	"Id": 9,
+	"InstanceId": 8183,
+	"ActivityId": 101900001,
+	"SortId": 0,
+	"OptionalBuff": [
+		11,
+		12,
+		19,
+		13,
+		17,
+		15,
+		14
+	],
+	"OpenDay": 3,
+	"Condition": 0,
+	"RewardId": 5060404,
+	"RewardScore": 2000,
+	"LevelRewardDesc": "",
+	"BaseEntityId": 0,
+	"UnlockScoreLimit": 30000,
+	"IsDifficult": false
+},
+{
+	"Id": 10,
+	"InstanceId": 8184,
+	"ActivityId": 101900001,
+	"SortId": 0,
+	"OptionalBuff": [
+		11,
+		12,
+		19,
+		13,
+		17,
+		15,
+		14,
+		18
+	],
+	"OpenDay": 4,
+	"Condition": 0,
+	"RewardId": 5060405,
+	"RewardScore": 2000,
+	"LevelRewardDesc": "",
+	"BaseEntityId": 0,
+	"UnlockScoreLimit": 30000,
+	"IsDifficult": false
+},
+{
+	"Id": 11,
+	"InstanceId": 8185,
+	"ActivityId": 101900001,
+	"SortId": 0,
+	"OptionalBuff": [
+		11,
+		12,
+		19,
+		13,
+		17,
+		15,
+		14,
+		18,
+		16
+	],
+	"OpenDay": 5,
+	"Condition": 0,
+	"RewardId": 5060406,
+	"RewardScore": 2000,
+	"LevelRewardDesc": "",
+	"BaseEntityId": 0,
+	"UnlockScoreLimit": 30000,
+	"IsDifficult": false
+},
+{
+	"Id": 12,
+	"InstanceId": 8186,
+	"ActivityId": 101900001,
+	"SortId": 0,
+	"OptionalBuff": [
+		11,
+		12,
+		19,
+		13,
+		17,
+		15,
+		14,
+		18,
+		16
+	],
+	"OpenDay": 0,
+	"Condition": 0,
+	"RewardId": 5060415,
+	"RewardScore": 2000,
+	"LevelRewardDesc": "",
+	"BaseEntityId": 0,
+	"UnlockScoreLimit": 30000,
+	"IsDifficult": true
+},
+{
+	"Id": 13,
+	"InstanceId": 8187,
+	"ActivityId": 101900001,
+	"SortId": 0,
+	"OptionalBuff": [
+		11,
+		12,
+		19,
+		13,
+		17,
+		15,
+		14,
+		18,
+		16
+	],
+	"OpenDay": 1,
+	"Condition": 0,
+	"RewardId": 5060416,
+	"RewardScore": 2000,
+	"LevelRewardDesc": "",
+	"BaseEntityId": 0,
+	"UnlockScoreLimit": 30000,
+	"IsDifficult": true
+},
+{
+	"Id": 14,
+	"InstanceId": 8188,
+	"ActivityId": 101900001,
+	"SortId": 0,
+	"OptionalBuff": [
+		11,
+		12,
+		19,
+		13,
+		17,
+		15,
+		14,
+		18,
+		16
+	],
+	"OpenDay": 2,
+	"Condition": 0,
+	"RewardId": 5060417,
+	"RewardScore": 2000,
+	"LevelRewardDesc": "",
+	"BaseEntityId": 0,
+	"UnlockScoreLimit": 30000,
+	"IsDifficult": true
+},
+{
+	"Id": 15,
+	"InstanceId": 8189,
+	"ActivityId": 101900001,
+	"SortId": 0,
+	"OptionalBuff": [
+		11,
+		12,
+		19,
+		13,
+		17,
+		15,
+		14,
+		18,
+		16
+	],
+	"OpenDay": 3,
+	"Condition": 0,
+	"RewardId": 5060418,
+	"RewardScore": 2000,
+	"LevelRewardDesc": "",
+	"BaseEntityId": 0,
+	"UnlockScoreLimit": 30000,
+	"IsDifficult": true
+},
+{
+	"Id": 16,
+	"InstanceId": 8190,
+	"ActivityId": 101900001,
+	"SortId": 0,
+	"OptionalBuff": [
+		11,
+		12,
+		19,
+		13,
+		17,
+		15,
+		14,
+		18,
+		16
+	],
+	"OpenDay": 4,
+	"Condition": 0,
+	"RewardId": 5060419,
+	"RewardScore": 2000,
+	"LevelRewardDesc": "",
+	"BaseEntityId": 0,
+	"UnlockScoreLimit": 30000,
+	"IsDifficult": true
+},
+{
+	"Id": 17,
+	"InstanceId": 8191,
+	"ActivityId": 101900001,
+	"SortId": 0,
+	"OptionalBuff": [
+		11,
+		12,
+		19,
+		13,
+		17,
+		15,
+		14,
+		18,
+		16
+	],
+	"OpenDay": 5,
+	"Condition": 0,
+	"RewardId": 5060420,
+	"RewardScore": 2000,
+	"LevelRewardDesc": "",
+	"BaseEntityId": 0,
+	"UnlockScoreLimit": 30000,
+	"IsDifficult": true
 }
 ]

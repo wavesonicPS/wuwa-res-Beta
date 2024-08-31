@@ -580,6 +580,20 @@
 	}
 },
 {
+	"Id": "shouanren",
+	"OccupationType": "Npc",
+	"NameStringKey": 141,
+	"Name": 142,
+	"OccupationData": ""
+},
+{
+	"Id": "youhu",
+	"OccupationType": "Npc",
+	"NameStringKey": 143,
+	"Name": 144,
+	"OccupationData": ""
+},
+{
 	"Id": "zhezhi",
 	"OccupationType": "Npc",
 	"NameStringKey": 139,

@@ -2,6 +2,7 @@
 {
 	"Level": 1,
 	"BuffId": 900000010001,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"1"
@@ -10,6 +11,7 @@
 {
 	"Level": 2,
 	"BuffId": 900000010002,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"2"
@@ -18,6 +20,7 @@
 {
 	"Level": 3,
 	"BuffId": 900000010003,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"3"
@@ -26,6 +29,9 @@
 {
 	"Level": 4,
 	"BuffId": 900000010004,
+	"AddBuffs": [
+		912312100001
+	],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"4"
@@ -34,6 +40,9 @@
 {
 	"Level": 5,
 	"BuffId": 900000010005,
+	"AddBuffs": [
+		912312100002
+	],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"5"
@@ -42,6 +51,7 @@
 {
 	"Level": 6,
 	"BuffId": 900000010006,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"6"
@@ -50,6 +60,7 @@
 {
 	"Level": 7,
 	"BuffId": 900000010007,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"7"
@@ -58,6 +69,7 @@
 {
 	"Level": 8,
 	"BuffId": 900000010008,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"8"
@@ -66,6 +78,7 @@
 {
 	"Level": 9,
 	"BuffId": 900000010009,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"9"
@@ -74,6 +87,7 @@
 {
 	"Level": 10,
 	"BuffId": 900000010010,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"10"
@@ -82,6 +96,7 @@
 {
 	"Level": 11,
 	"BuffId": 900000010011,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"11"
@@ -90,6 +105,7 @@
 {
 	"Level": 12,
 	"BuffId": 900000010012,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"12"
@@ -98,6 +114,7 @@
 {
 	"Level": 13,
 	"BuffId": 900000010013,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"13"
@@ -106,6 +123,7 @@
 {
 	"Level": 14,
 	"BuffId": 900000010014,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"14"
@@ -114,6 +132,7 @@
 {
 	"Level": 15,
 	"BuffId": 900000010015,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"15"
@@ -122,6 +141,7 @@
 {
 	"Level": 16,
 	"BuffId": 900000010016,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"16"
@@ -130,6 +150,7 @@
 {
 	"Level": 17,
 	"BuffId": 900000010017,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"17"
@@ -138,6 +159,7 @@
 {
 	"Level": 18,
 	"BuffId": 900000010018,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"18"
@@ -146,6 +168,7 @@
 {
 	"Level": 19,
 	"BuffId": 900000010019,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"19"
@@ -154,6 +177,7 @@
 {
 	"Level": 20,
 	"BuffId": 900000010020,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"20"
@@ -162,6 +186,7 @@
 {
 	"Level": 21,
 	"BuffId": 900000010045,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"21"
@@ -170,6 +195,7 @@
 {
 	"Level": 22,
 	"BuffId": 900000010046,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"22"
@@ -178,6 +204,7 @@
 {
 	"Level": 23,
 	"BuffId": 900000010047,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"23"
@@ -186,6 +213,7 @@
 {
 	"Level": 24,
 	"BuffId": 900000010048,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"24"
@@ -194,6 +222,7 @@
 {
 	"Level": 25,
 	"BuffId": 900000010049,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"25"
@@ -202,6 +231,7 @@
 {
 	"Level": 26,
 	"BuffId": 900000010050,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"26"
@@ -210,6 +240,7 @@
 {
 	"Level": 27,
 	"BuffId": 900000010051,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"27"
@@ -218,6 +249,7 @@
 {
 	"Level": 28,
 	"BuffId": 900000010052,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"28"
@@ -226,6 +258,7 @@
 {
 	"Level": 29,
 	"BuffId": 900000010053,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"29"
@@ -234,6 +267,7 @@
 {
 	"Level": 30,
 	"BuffId": 900000010054,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"30"
@@ -242,6 +276,7 @@
 {
 	"Level": 31,
 	"BuffId": 900000010055,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"31"
@@ -250,6 +285,7 @@
 {
 	"Level": 32,
 	"BuffId": 900000010056,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"32"
@@ -258,6 +294,7 @@
 {
 	"Level": 33,
 	"BuffId": 900000010057,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"33"
@@ -266,6 +303,7 @@
 {
 	"Level": 34,
 	"BuffId": 900000010058,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"34"
@@ -274,6 +312,7 @@
 {
 	"Level": 35,
 	"BuffId": 900000010059,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"35"
@@ -282,6 +321,7 @@
 {
 	"Level": 36,
 	"BuffId": 900000010060,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"36"
@@ -290,6 +330,7 @@
 {
 	"Level": 37,
 	"BuffId": 900000010061,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"37"
@@ -298,6 +339,7 @@
 {
 	"Level": 38,
 	"BuffId": 900000010062,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"38"
@@ -306,6 +348,7 @@
 {
 	"Level": 39,
 	"BuffId": 900000010063,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"39"
@@ -314,6 +357,7 @@
 {
 	"Level": 40,
 	"BuffId": 900000010064,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"40"
@@ -322,6 +366,7 @@
 {
 	"Level": 41,
 	"BuffId": 900000010065,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"41"
@@ -330,6 +375,7 @@
 {
 	"Level": 42,
 	"BuffId": 900000010066,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"42"
@@ -338,6 +384,7 @@
 {
 	"Level": 43,
 	"BuffId": 900000010067,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"43"
@@ -346,6 +393,7 @@
 {
 	"Level": 44,
 	"BuffId": 900000010068,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"44"
@@ -354,6 +402,7 @@
 {
 	"Level": 45,
 	"BuffId": 900000010069,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"45"
@@ -362,6 +411,7 @@
 {
 	"Level": 46,
 	"BuffId": 900000010070,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"46"
@@ -370,6 +420,7 @@
 {
 	"Level": 47,
 	"BuffId": 900000010071,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"47"
@@ -378,6 +429,7 @@
 {
 	"Level": 48,
 	"BuffId": 900000010072,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"48"
@@ -386,6 +438,7 @@
 {
 	"Level": 49,
 	"BuffId": 900000010073,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"49"
@@ -394,6 +447,7 @@
 {
 	"Level": 50,
 	"BuffId": 900000010074,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"50"
@@ -402,6 +456,7 @@
 {
 	"Level": 51,
 	"BuffId": 900000010075,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"51"
@@ -410,6 +465,7 @@
 {
 	"Level": 52,
 	"BuffId": 900000010076,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"52"
@@ -418,6 +474,7 @@
 {
 	"Level": 53,
 	"BuffId": 900000010077,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"53"
@@ -426,6 +483,7 @@
 {
 	"Level": 54,
 	"BuffId": 900000010078,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"54"
@@ -434,6 +492,7 @@
 {
 	"Level": 55,
 	"BuffId": 900000010079,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"55"
@@ -442,6 +501,7 @@
 {
 	"Level": 56,
 	"BuffId": 900000010080,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"56"
@@ -450,6 +510,7 @@
 {
 	"Level": 57,
 	"BuffId": 900000010081,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"57"
@@ -458,6 +519,7 @@
 {
 	"Level": 58,
 	"BuffId": 900000010082,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"58"
@@ -466,6 +528,7 @@
 {
 	"Level": 59,
 	"BuffId": 900000010083,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"59"
@@ -474,6 +537,7 @@
 {
 	"Level": 60,
 	"BuffId": 900000010084,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"60"
@@ -482,6 +546,7 @@
 {
 	"Level": 61,
 	"BuffId": 900000010085,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"61"
@@ -490,6 +555,7 @@
 {
 	"Level": 62,
 	"BuffId": 900000010086,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"62"
@@ -498,6 +564,7 @@
 {
 	"Level": 63,
 	"BuffId": 900000010087,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"63"
@@ -506,6 +573,7 @@
 {
 	"Level": 64,
 	"BuffId": 900000010088,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"64"
@@ -514,6 +582,7 @@
 {
 	"Level": 65,
 	"BuffId": 900000010089,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"65"
@@ -522,6 +591,7 @@
 {
 	"Level": 66,
 	"BuffId": 900000010090,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"66"
@@ -530,6 +600,7 @@
 {
 	"Level": 67,
 	"BuffId": 900000010091,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"67"
@@ -538,6 +609,7 @@
 {
 	"Level": 68,
 	"BuffId": 900000010092,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"68"
@@ -546,6 +618,7 @@
 {
 	"Level": 69,
 	"BuffId": 900000010093,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"69"
@@ -554,6 +627,7 @@
 {
 	"Level": 70,
 	"BuffId": 900000010094,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"70"
@@ -562,6 +636,7 @@
 {
 	"Level": 71,
 	"BuffId": 900000010095,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"71"
@@ -570,6 +645,7 @@
 {
 	"Level": 72,
 	"BuffId": 900000010096,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"72"
@@ -578,6 +654,7 @@
 {
 	"Level": 73,
 	"BuffId": 900000010097,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"73"
@@ -586,6 +663,7 @@
 {
 	"Level": 74,
 	"BuffId": 900000010098,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"74"
@@ -594,6 +672,7 @@
 {
 	"Level": 75,
 	"BuffId": 900000010099,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"75"
@@ -602,6 +681,7 @@
 {
 	"Level": 76,
 	"BuffId": 900000010100,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"76"
@@ -610,6 +690,7 @@
 {
 	"Level": 77,
 	"BuffId": 900000010101,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"77"
@@ -618,6 +699,7 @@
 {
 	"Level": 78,
 	"BuffId": 900000010102,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"78"
@@ -626,6 +708,7 @@
 {
 	"Level": 79,
 	"BuffId": 900000010103,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"79"
@@ -634,6 +717,7 @@
 {
 	"Level": 80,
 	"BuffId": 900000010104,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"80"
@@ -642,6 +726,7 @@
 {
 	"Level": 81,
 	"BuffId": 900000010105,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"81"
@@ -650,6 +735,7 @@
 {
 	"Level": 82,
 	"BuffId": 900000010106,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"82"
@@ -658,6 +744,7 @@
 {
 	"Level": 83,
 	"BuffId": 900000010107,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"83"
@@ -666,6 +753,7 @@
 {
 	"Level": 84,
 	"BuffId": 900000010108,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"84"
@@ -674,6 +762,7 @@
 {
 	"Level": 85,
 	"BuffId": 900000010109,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"85"
@@ -682,6 +771,7 @@
 {
 	"Level": 86,
 	"BuffId": 900000010110,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"86"
@@ -690,6 +780,7 @@
 {
 	"Level": 87,
 	"BuffId": 900000010111,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"87"
@@ -698,6 +789,7 @@
 {
 	"Level": 88,
 	"BuffId": 900000010112,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"88"
@@ -706,6 +798,7 @@
 {
 	"Level": 89,
 	"BuffId": 900000010113,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"89"
@@ -714,6 +807,7 @@
 {
 	"Level": 90,
 	"BuffId": 900000010114,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"90"
@@ -722,6 +816,7 @@
 {
 	"Level": 91,
 	"BuffId": 900000010115,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"91"
@@ -730,6 +825,7 @@
 {
 	"Level": 92,
 	"BuffId": 900000010116,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"92"
@@ -738,6 +834,7 @@
 {
 	"Level": 93,
 	"BuffId": 900000010117,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"93"
@@ -746,6 +843,7 @@
 {
 	"Level": 94,
 	"BuffId": 900000010118,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"94"
@@ -754,6 +852,7 @@
 {
 	"Level": 95,
 	"BuffId": 900000010119,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"95"
@@ -762,6 +861,7 @@
 {
 	"Level": 96,
 	"BuffId": 900000010120,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"96"
@@ -770,6 +870,7 @@
 {
 	"Level": 97,
 	"BuffId": 900000010121,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"97"
@@ -778,6 +879,7 @@
 {
 	"Level": 98,
 	"BuffId": 900000010122,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"98"
@@ -786,6 +888,7 @@
 {
 	"Level": 99,
 	"BuffId": 900000010123,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"99"
@@ -794,6 +897,7 @@
 {
 	"Level": 100,
 	"BuffId": 900000010124,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"100"
@@ -802,6 +906,7 @@
 {
 	"Level": 101,
 	"BuffId": 900000010125,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"101"
@@ -810,6 +915,7 @@
 {
 	"Level": 102,
 	"BuffId": 900000010126,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"102"
@@ -818,6 +924,7 @@
 {
 	"Level": 103,
 	"BuffId": 900000010127,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"103"
@@ -826,6 +933,7 @@
 {
 	"Level": 104,
 	"BuffId": 900000010128,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"104"
@@ -834,6 +942,7 @@
 {
 	"Level": 105,
 	"BuffId": 900000010129,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"105"
@@ -842,6 +951,7 @@
 {
 	"Level": 106,
 	"BuffId": 900000010130,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"106"
@@ -850,6 +960,7 @@
 {
 	"Level": 107,
 	"BuffId": 900000010131,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"107"
@@ -858,6 +969,7 @@
 {
 	"Level": 108,
 	"BuffId": 900000010132,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"108"
@@ -866,6 +978,7 @@
 {
 	"Level": 109,
 	"BuffId": 900000010133,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"109"
@@ -874,6 +987,7 @@
 {
 	"Level": 110,
 	"BuffId": 900000010134,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"110"
@@ -882,6 +996,7 @@
 {
 	"Level": 111,
 	"BuffId": 900000010135,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"111"
@@ -890,6 +1005,7 @@
 {
 	"Level": 112,
 	"BuffId": 900000010136,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"112"
@@ -898,6 +1014,7 @@
 {
 	"Level": 113,
 	"BuffId": 900000010137,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"113"
@@ -906,6 +1023,7 @@
 {
 	"Level": 114,
 	"BuffId": 900000010138,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"114"
@@ -914,6 +1032,7 @@
 {
 	"Level": 115,
 	"BuffId": 900000010139,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"115"
@@ -922,6 +1041,7 @@
 {
 	"Level": 116,
 	"BuffId": 900000010140,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"116"
@@ -930,6 +1050,7 @@
 {
 	"Level": 117,
 	"BuffId": 900000010141,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"117"
@@ -938,6 +1059,7 @@
 {
 	"Level": 118,
 	"BuffId": 900000010142,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"118"
@@ -946,6 +1068,7 @@
 {
 	"Level": 119,
 	"BuffId": 900000010143,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"119"
@@ -954,6 +1077,7 @@
 {
 	"Level": 120,
 	"BuffId": 900000010144,
+	"AddBuffs": [],
 	"TextId": "Rogueyuansudengji_Text_01",
 	"TextIdArgs": [
 		"120"

@@ -2671,7 +2671,7 @@
 	"PerkType": 5,
 	"Quality": 5,
 	"BuffElement": {
-		"1": 2
+		"3": 2
 	},
 	"BuffIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1302_UI.T_IconRup_Part_1302_UI",
 	"BuffDesc": "RogueBuffPool_1302_BuffDesc",
@@ -2707,7 +2707,7 @@
 	"PerkType": 5,
 	"Quality": 5,
 	"BuffElement": {
-		"2": 2
+		"1": 2
 	},
 	"BuffIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1103_UI.T_IconRup_Part_1103_UI",
 	"BuffDesc": "RogueBuffPool_1103_BuffDesc",
@@ -2799,7 +2799,7 @@
 	"BuffElement": {
 		"1": 2
 	},
-	"BuffIcon": "Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_001_1_UI.T_IconTask_Task_001_1_UI",
+	"BuffIcon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_001_1_UI.T_IconTask_Task_001_1_UI",
 	"BuffDesc": "RogueBuffPool_912312000010_BuffDesc",
 	"BuffDescParam": [],
 	"BuffDescSimple": "RogueBuffPool_912312000010_BuffDesc_0",

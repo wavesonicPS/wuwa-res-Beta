@@ -2000,19 +2000,5 @@
 	"FlowId": 10,
 	"StateId": 2,
 	"IsCopyCamera": true
-},
-{
-	"Id": 10029045,
-	"TextId": "RogueEvent_10009042_text",
-	"Title": "RogueEvent_10009042_titile",
-	"Condition": 0,
-	"EventType": 0,
-	"Args": [
-		0
-	],
-	"FlowListName": "剧情_1_2_肉鸽_角色协奏_rogouC",
-	"FlowId": 10,
-	"StateId": 3,
-	"IsCopyCamera": true
 }
 ]

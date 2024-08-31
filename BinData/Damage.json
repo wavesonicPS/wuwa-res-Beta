@@ -258116,6 +258116,3471 @@
 	]
 },
 {
+	"Id": 1106001001,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		2383,
+		2579,
+		2774,
+		3048,
+		3243,
+		3468,
+		3780,
+		4093,
+		4405,
+		4738,
+		5128,
+		5519,
+		5910,
+		6301,
+		6691,
+		7082,
+		7473,
+		7864,
+		8255,
+		8645
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		4100
+	],
+	"Energy": [
+		103
+	],
+	"SpecialEnergy1": [
+		1000
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		328
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106002001,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		1605,
+		1737,
+		1869,
+		2053,
+		2184,
+		2336,
+		2546,
+		2757,
+		2967,
+		3191,
+		3454,
+		3718,
+		3981,
+		4244,
+		4507,
+		4770,
+		5034,
+		5297,
+		5560,
+		5823
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		2762
+	],
+	"Energy": [
+		70
+	],
+	"SpecialEnergy1": [
+		770
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		221
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106002002,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		2981,
+		3225,
+		3470,
+		3812,
+		4056,
+		4337,
+		4728,
+		5119,
+		5510,
+		5926,
+		6415,
+		6904,
+		7392,
+		7881,
+		8370,
+		8859,
+		9348,
+		9836,
+		10325,
+		10814
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		5129
+	],
+	"Energy": [
+		129
+	],
+	"SpecialEnergy1": [
+		1430
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		411
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106003001,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		1915,
+		2072,
+		2229,
+		2449,
+		2606,
+		2786,
+		3037,
+		3288,
+		3540,
+		3806,
+		4120,
+		4434,
+		4748,
+		5062,
+		5376,
+		5690,
+		6004,
+		6318,
+		6632,
+		6946
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		2763
+	],
+	"Energy": [
+		83
+	],
+	"SpecialEnergy1": [
+		1170
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		264
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106003002,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		2340,
+		2532,
+		2724,
+		2993,
+		3184,
+		3405,
+		3712,
+		4019,
+		4326,
+		4652,
+		5036,
+		5420,
+		5803,
+		6187,
+		6571,
+		6954,
+		7338,
+		7722,
+		8106,
+		8489
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		4026
+	],
+	"Energy": [
+		101
+	],
+	"SpecialEnergy1": [
+		1430
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		323
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106004001,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		5853,
+		6333,
+		6813,
+		7484,
+		7964,
+		8516,
+		9284,
+		10052,
+		10820,
+		11635,
+		12595,
+		13555,
+		14515,
+		15474,
+		16434,
+		17394,
+		18354,
+		19313,
+		20273,
+		21233
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		2764
+	],
+	"Energy": [
+		252
+	],
+	"SpecialEnergy1": [
+		4200
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		806
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106010001,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 1,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		727,
+		787,
+		846,
+		929,
+		989,
+		1058,
+		1153,
+		1248,
+		1343,
+		1445,
+		1564,
+		1683,
+		1802,
+		1921,
+		2040,
+		2160,
+		2279,
+		2398,
+		2517,
+		2636
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		1000
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		80
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106020001,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		3100,
+		3355,
+		3609,
+		3965,
+		4219,
+		4511,
+		4918,
+		5325,
+		5731,
+		6164,
+		6672,
+		7180,
+		7689,
+		8197,
+		8706,
+		9214,
+		9722,
+		10231,
+		10739,
+		11248
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		2765
+	],
+	"Energy": [
+		26
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		50
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106030001,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		4359,
+		4717,
+		5074,
+		5574,
+		5932,
+		6343,
+		6915,
+		7487,
+		8058,
+		8666,
+		9381,
+		10096,
+		10810,
+		11525,
+		12240,
+		12955,
+		13670,
+		14385,
+		15099,
+		15814
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		15000
+	],
+	"Energy": [
+		258
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		826
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106040001,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106040002,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106100001,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 4,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		7870,
+		8516,
+		9161,
+		10064,
+		10710,
+		11452,
+		12484,
+		13517,
+		14549,
+		15646,
+		16937,
+		18228,
+		19518,
+		20809,
+		22100,
+		23390,
+		24681,
+		25972,
+		27262,
+		28553
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		20000
+	],
+	"Energy": [
+		800
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106110001,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 4,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		5827,
+		6305,
+		6783,
+		7452,
+		7929,
+		8479,
+		9243,
+		10008,
+		10772,
+		11585,
+		12540,
+		13496,
+		14451,
+		15407,
+		16362,
+		17318,
+		18274,
+		19229,
+		20185,
+		21140
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		20000
+	],
+	"Energy": [
+		300
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106120001,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 4,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		2213,
+		2394,
+		2575,
+		2829,
+		3011,
+		3219,
+		3509,
+		3800,
+		4090,
+		4398,
+		4761,
+		5124,
+		5487,
+		5849,
+		6212,
+		6575,
+		6938,
+		7300,
+		7663,
+		8026
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		3000
+	],
+	"Energy": [
+		75
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106120002,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 4,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		2213,
+		2394,
+		2575,
+		2829,
+		3011,
+		3219,
+		3509,
+		3800,
+		4090,
+		4398,
+		4761,
+		5124,
+		5487,
+		5849,
+		6212,
+		6575,
+		6938,
+		7300,
+		7663,
+		8026
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		3000
+	],
+	"Energy": [
+		75
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106120003,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 4,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		5899,
+		6383,
+		6867,
+		7544,
+		8028,
+		8584,
+		9358,
+		10132,
+		10905,
+		11728,
+		12695,
+		13663,
+		14630,
+		15597,
+		16565,
+		17532,
+		18500,
+		19467,
+		20434,
+		21402
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		8000
+	],
+	"Energy": [
+		200
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106130001,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 4,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		6891,
+		7456,
+		8021,
+		8813,
+		9378,
+		10027,
+		10931,
+		11836,
+		12740,
+		13700,
+		14830,
+		15960,
+		17091,
+		18221,
+		19351,
+		20481,
+		21611,
+		22741,
+		23871,
+		25001
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		9000
+	],
+	"Energy": [
+		225
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106130002,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 4,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		8423,
+		9113,
+		9804,
+		10771,
+		11461,
+		12256,
+		13361,
+		14466,
+		15571,
+		16745,
+		18126,
+		19507,
+		20888,
+		22270,
+		23651,
+		25032,
+		26413,
+		27794,
+		29176,
+		30557
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		11000
+	],
+	"Energy": [
+		275
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106140001,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 4,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		1438,
+		1555,
+		1673,
+		1838,
+		1956,
+		2092,
+		2280,
+		2469,
+		2657,
+		2857,
+		3093,
+		3329,
+		3564,
+		3800,
+		4036,
+		4272,
+		4507,
+		4743,
+		4979,
+		5214
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		2000
+	],
+	"Energy": [
+		50
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106140002,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 4,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		5749,
+		6220,
+		6691,
+		7351,
+		7823,
+		8365,
+		9119,
+		9873,
+		10627,
+		11428,
+		12371,
+		13314,
+		14256,
+		15199,
+		16142,
+		17085,
+		18027,
+		18970,
+		19913,
+		20855
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		8000
+	],
+	"Energy": [
+		200
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106150001,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 4,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		865,
+		936,
+		1007,
+		1106,
+		1177,
+		1258,
+		1372,
+		1485,
+		1599,
+		1719,
+		1861,
+		2003,
+		2144,
+		2286,
+		2428,
+		2570,
+		2712,
+		2853,
+		2995,
+		3137
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		2334
+	],
+	"Energy": [
+		59
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106150002,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 4,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		2223,
+		2406,
+		2588,
+		2843,
+		3025,
+		3235,
+		3527,
+		3818,
+		4110,
+		4420,
+		4784,
+		5149,
+		5514,
+		5878,
+		6243,
+		6607,
+		6972,
+		7336,
+		7701,
+		8065
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		6000
+	],
+	"Energy": [
+		150
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106200001,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 2,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		16458,
+		17807,
+		19157,
+		21046,
+		22395,
+		23947,
+		26106,
+		28266,
+		30425,
+		32719,
+		35418,
+		38117,
+		40816,
+		43515,
+		46214,
+		48913,
+		51612,
+		54311,
+		57010,
+		59709
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		40000
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106300001,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 3,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		4500,
+		4869,
+		5238,
+		5755,
+		6124,
+		6548,
+		7139,
+		7729,
+		8320,
+		8947,
+		9685,
+		10423,
+		11161,
+		11899,
+		12637,
+		13375,
+		14113,
+		14851,
+		15589,
+		16327
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		4500
+	],
+	"Energy": [
+		450
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106300002,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 3,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		5500,
+		5951,
+		6402,
+		7034,
+		7485,
+		8004,
+		8725,
+		9447,
+		10168,
+		10935,
+		11837,
+		12739,
+		13641,
+		14543,
+		15445,
+		16347,
+		17249,
+		18151,
+		19053,
+		19955
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		5500
+	],
+	"Energy": [
+		550
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106400001,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 7,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106400002,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 7,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106500001,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 4,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		1872,
+		2026,
+		2179,
+		2394,
+		2547,
+		2724,
+		2969,
+		3215,
+		3460,
+		3721,
+		4028,
+		4335,
+		4642,
+		4949,
+		5256,
+		5563,
+		5870,
+		6177,
+		6484,
+		6791
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		2000
+	],
+	"Energy": [
+		100
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106500002,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 4,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		1872,
+		2026,
+		2179,
+		2394,
+		2547,
+		2724,
+		2969,
+		3215,
+		3460,
+		3721,
+		4028,
+		4335,
+		4642,
+		4949,
+		5256,
+		5563,
+		5870,
+		6177,
+		6484,
+		6791
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		2000
+	],
+	"Energy": [
+		100
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106500003,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 4,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		1872,
+		2026,
+		2179,
+		2394,
+		2547,
+		2724,
+		2969,
+		3215,
+		3460,
+		3721,
+		4028,
+		4335,
+		4642,
+		4949,
+		5256,
+		5563,
+		5870,
+		6177,
+		6484,
+		6791
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		2000
+	],
+	"Energy": [
+		100
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106500004,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 4,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		1872,
+		2026,
+		2179,
+		2394,
+		2547,
+		2724,
+		2969,
+		3215,
+		3460,
+		3721,
+		4028,
+		4335,
+		4642,
+		4949,
+		5256,
+		5563,
+		5870,
+		6177,
+		6484,
+		6791
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		2000
+	],
+	"Energy": [
+		100
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106500005,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 4,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		1872,
+		2026,
+		2179,
+		2394,
+		2547,
+		2724,
+		2969,
+		3215,
+		3460,
+		3721,
+		4028,
+		4335,
+		4642,
+		4949,
+		5256,
+		5563,
+		5870,
+		6177,
+		6484,
+		6791
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		2000
+	],
+	"Energy": [
+		100
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106500006,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 4,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		1872,
+		2026,
+		2179,
+		2394,
+		2547,
+		2724,
+		2969,
+		3215,
+		3460,
+		3721,
+		4028,
+		4335,
+		4642,
+		4949,
+		5256,
+		5563,
+		5870,
+		6177,
+		6484,
+		6791
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		2000
+	],
+	"Energy": [
+		100
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
 	"Id": 1304310011,
 	"CalculateType": 0,
 	"Element": 5,
@@ -266717,7 +270182,7 @@
 	"Id": 1305061001,
 	"CalculateType": 0,
 	"Element": 3,
-	"DamageTextType": 0,
+	"DamageTextType": 1003,
 	"PayloadId": 0,
 	"Type": 2,
 	"SubType": [],
@@ -266727,26 +270192,26 @@
 	],
 	"RelatedProperty": 7,
 	"RateLv": [
-		81754,
-		88457,
-		95161,
-		104546,
-		111250,
-		118960,
-		129686,
-		140412,
-		151138,
-		162534,
-		175942,
-		189349,
-		202757,
-		216164,
-		229572,
-		242979,
-		256387,
-		269794,
-		283202,
-		296609
+		73742,
+		79789,
+		85835,
+		94301,
+		100348,
+		107302,
+		116976,
+		126651,
+		136326,
+		146606,
+		158699,
+		170793,
+		182887,
+		194980,
+		207074,
+		219167,
+		231261,
+		243354,
+		255448,
+		267542
 	],
 	"HardnessLv": [
 		10000
@@ -268817,7 +272282,7 @@
 	"Id": 1305053002,
 	"CalculateType": 0,
 	"Element": 3,
-	"DamageTextType": 0,
+	"DamageTextType": 1003,
 	"PayloadId": 0,
 	"Type": 2,
 	"SubType": [],
@@ -269811,10 +273276,10 @@
 	],
 	"RelatedProperty": 7,
 	"RateLv": [
-		7500
+		22500
 	],
 	"HardnessLv": [
-		10000
+		20000
 	],
 	"ToughLv": [
 		20000
@@ -269897,7 +273362,7 @@
 	],
 	"RelatedProperty": 7,
 	"RateLv": [
-		55000
+		113500
 	],
 	"HardnessLv": [
 		10000
@@ -269983,7 +273448,7 @@
 	],
 	"RelatedProperty": 7,
 	"RateLv": [
-		53160
+		222036
 	],
 	"HardnessLv": [
 		10000
@@ -270069,7 +273534,7 @@
 	],
 	"RelatedProperty": 7,
 	"RateLv": [
-		106320
+		444072
 	],
 	"HardnessLv": [
 		10000
@@ -270155,7 +273620,7 @@
 	],
 	"RelatedProperty": 7,
 	"RateLv": [
-		65000
+		252600
 	],
 	"HardnessLv": [
 		10000
@@ -270241,7 +273706,7 @@
 	],
 	"RelatedProperty": 7,
 	"RateLv": [
-		3625
+		14975
 	],
 	"HardnessLv": [
 		10000
@@ -270327,7 +273792,7 @@
 	],
 	"RelatedProperty": 7,
 	"RateLv": [
-		30000
+		114000
 	],
 	"HardnessLv": [
 		10000
@@ -270413,7 +273878,7 @@
 	],
 	"RelatedProperty": 7,
 	"RateLv": [
-		7800
+		43200
 	],
 	"HardnessLv": [
 		10000
@@ -270499,7 +273964,7 @@
 	],
 	"RelatedProperty": 7,
 	"RateLv": [
-		38700
+		147060
 	],
 	"HardnessLv": [
 		10000
@@ -270585,7 +274050,7 @@
 	],
 	"RelatedProperty": 7,
 	"RateLv": [
-		5985
+		32760
 	],
 	"HardnessLv": [
 		10000
@@ -270671,7 +274136,7 @@
 	],
 	"RelatedProperty": 7,
 	"RateLv": [
-		16500
+		53804
 	],
 	"HardnessLv": [
 		10000
@@ -275693,7 +279158,7 @@
 	"Element": 3,
 	"DamageTextType": 0,
 	"PayloadId": 0,
-	"Type": 3,
+	"Type": 2,
 	"SubType": [],
 	"SmashType": 5,
 	"CureBaseValue": [
@@ -275701,7 +279166,7 @@
 	],
 	"RelatedProperty": 7,
 	"RateLv": [
-		100000
+		20000
 	],
 	"HardnessLv": [
 		10000
@@ -275959,7 +279424,7 @@
 	],
 	"RelatedProperty": 7,
 	"RateLv": [
-		20000
+		18000
 	],
 	"HardnessLv": [
 		10000
@@ -276034,7 +279499,7 @@
 {
 	"Id": 1000010016,
 	"CalculateType": 0,
-	"Element": 4,
+	"Element": 1,
 	"DamageTextType": 0,
 	"PayloadId": 0,
 	"Type": 5,
@@ -276045,7 +279510,7 @@
 	],
 	"RelatedProperty": 7,
 	"RateLv": [
-		6000
+		9000
 	],
 	"HardnessLv": [
 		10000
@@ -276298,10 +279763,96 @@
 	]
 },
 {
+	"Id": 640010018,
+	"CalculateType": 0,
+	"Element": 0,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 6,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 2,
+	"RateLv": [
+		10000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
 	"Id": 1305061011,
 	"CalculateType": 0,
 	"Element": 3,
-	"DamageTextType": 0,
+	"DamageTextType": 1003,
 	"PayloadId": 0,
 	"Type": 2,
 	"SubType": [],
@@ -276311,26 +279862,26 @@
 	],
 	"RelatedProperty": 7,
 	"RateLv": [
-		163507,
-		176914,
-		190322,
-		209092,
-		222500,
-		237919,
-		259371,
-		280823,
-		302275,
-		325068,
-		351883,
-		378698,
-		405513,
-		432328,
-		459143,
-		485958,
-		512773,
-		539588,
-		566403,
-		593218
+		147483,
+		159577,
+		171670,
+		188601,
+		200695,
+		214603,
+		233952,
+		253302,
+		272652,
+		293211,
+		317398,
+		341585,
+		365773,
+		389960,
+		414147,
+		438334,
+		462521,
+		486708,
+		510896,
+		535083
 	],
 	"HardnessLv": [
 		10000
@@ -276416,26 +279967,26 @@
 	],
 	"RelatedProperty": 7,
 	"RateLv": [
-		9630,
-		10420,
-		11210,
-		12315,
-		13105,
-		14013,
-		15277,
-		16540,
-		17803,
-		19146,
-		20725,
-		22305,
-		23884,
-		25463,
-		27043,
-		28622,
-		30201,
-		31780,
-		33360,
-		34939
+		8475,
+		9170,
+		9865,
+		10838,
+		11532,
+		12332,
+		13443,
+		14555,
+		15667,
+		16848,
+		18238,
+		19628,
+		21018,
+		22408,
+		23797,
+		25187,
+		26577,
+		27967,
+		29357,
+		30746
 	],
 	"HardnessLv": [
 		10000
@@ -276511,7 +280062,7 @@
 	"Id": 1305053021,
 	"CalculateType": 0,
 	"Element": 3,
-	"DamageTextType": 0,
+	"DamageTextType": 1003,
 	"PayloadId": 0,
 	"Type": 2,
 	"SubType": [],
@@ -276521,26 +280072,26 @@
 	],
 	"RelatedProperty": 7,
 	"RateLv": [
-		25680,
-		27786,
-		29892,
-		32840,
-		34946,
-		37367,
-		40737,
-		44106,
-		47475,
-		51055,
-		55266,
-		59478,
-		63689,
-		67901,
-		72113,
-		76324,
-		80536,
-		84747,
-		88959,
-		93170
+		22599,
+		24452,
+		26305,
+		28899,
+		30752,
+		32883,
+		35848,
+		38813,
+		41778,
+		44928,
+		48635,
+		52341,
+		56047,
+		59753,
+		63459,
+		67165,
+		70871,
+		74577,
+		78284,
+		81990
 	],
 	"HardnessLv": [
 		10000
@@ -276626,7 +280177,7 @@
 	],
 	"RelatedProperty": 7,
 	"RateLv": [
-		40763
+		45963
 	],
 	"HardnessLv": [
 		10000
@@ -276785,6 +280336,235 @@
 	]
 },
 {
+	"Id": 1106140003,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": -1,
+	"PayloadId": 0,
+	"Type": 4,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		40000
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106600001,
+	"CalculateType": 1,
+	"Element": 0,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		312,
+		329,
+		348,
+		390,
+		440,
+		488,
+		496,
+		507,
+		516,
+		530,
+		573,
+		617,
+		661,
+		705,
+		748,
+		792,
+		836,
+		879,
+		923,
+		967
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		1170,
+		1216,
+		1263,
+		1333,
+		1427,
+		1521,
+		1696,
+		1895,
+		2106,
+		2457,
+		2659,
+		2862,
+		3065,
+		3267,
+		3470,
+		3673,
+		3875,
+		4078,
+		4281,
+		4483
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 1,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
 	"Id": 90011100015,
 	"CalculateType": 0,
 	"Element": 0,
@@ -276798,7 +280578,7 @@
 	],
 	"RelatedProperty": 7,
 	"RateLv": [
-		65000
+		10000
 	],
 	"HardnessLv": [
 		10000
@@ -276884,7 +280664,7 @@
 	],
 	"RelatedProperty": 7,
 	"RateLv": [
-		65000
+		60000
 	],
 	"HardnessLv": [
 		10000
@@ -276970,7 +280750,7 @@
 	],
 	"RelatedProperty": 7,
 	"RateLv": [
-		65000
+		50000
 	],
 	"HardnessLv": [
 		10000
@@ -277056,7 +280836,7 @@
 	],
 	"RelatedProperty": 7,
 	"RateLv": [
-		65000
+		20000
 	],
 	"HardnessLv": [
 		10000
@@ -277142,7 +280922,7 @@
 	],
 	"RelatedProperty": 7,
 	"RateLv": [
-		38700
+		147060
 	],
 	"HardnessLv": [
 		10000
@@ -277264,6 +281044,12480 @@
 	],
 	"FormulaParam3": [
 		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106140004,
+	"CalculateType": 1,
+	"Element": 0,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		1180,
+		1243,
+		1317,
+		1475,
+		1665,
+		1844,
+		1876,
+		1918,
+		1949,
+		2002,
+		2167,
+		2332,
+		2498,
+		2663,
+		2828,
+		2993,
+		3158,
+		3324,
+		3489,
+		3654
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		4420,
+		4596,
+		4773,
+		5038,
+		5392,
+		5746,
+		6409,
+		7160,
+		7956,
+		9282,
+		10047,
+		10813,
+		11579,
+		12344,
+		13110,
+		13876,
+		14641,
+		15407,
+		16173,
+		16938
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 1,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106100002,
+	"CalculateType": 1,
+	"Element": 0,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		1041,
+		1097,
+		1162,
+		1302,
+		1469,
+		1627,
+		1655,
+		1692,
+		1720,
+		1767,
+		1912,
+		2058,
+		2204,
+		2350,
+		2495,
+		2641,
+		2787,
+		2933,
+		3078,
+		3224
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		3900,
+		4056,
+		4212,
+		4446,
+		4758,
+		5070,
+		5655,
+		6318,
+		7020,
+		8190,
+		8865,
+		9541,
+		10216,
+		10892,
+		11567,
+		12243,
+		12919,
+		13594,
+		14270,
+		14945
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 1,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1505001002,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 8,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		1599,
+		1730,
+		1861,
+		2045,
+		2176,
+		2326,
+		2536,
+		2746,
+		2955,
+		3178,
+		3440,
+		3703,
+		3965,
+		4227,
+		4489,
+		4751,
+		5013,
+		5275,
+		5538,
+		5800
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		1599
+	],
+	"Energy": [
+		50
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 5,
+	"ElementPower": [
+		160
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1505002002,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 8,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		1200,
+		1299,
+		1397,
+		1535,
+		1633,
+		1747,
+		1904,
+		2061,
+		2219,
+		2386,
+		2583,
+		2780,
+		2977,
+		3173,
+		3370,
+		3567,
+		3764,
+		3961,
+		4157,
+		4354
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		1200
+	],
+	"Energy": [
+		38
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 5,
+	"ElementPower": [
+		120
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1505002004,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 8,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		1200,
+		1299,
+		1397,
+		1535,
+		1633,
+		1747,
+		1904,
+		2061,
+		2219,
+		2386,
+		2583,
+		2780,
+		2977,
+		3173,
+		3370,
+		3567,
+		3764,
+		3961,
+		4157,
+		4354
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		1200
+	],
+	"Energy": [
+		38
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 5,
+	"ElementPower": [
+		120
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1505012002,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 8,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		4400,
+		4761,
+		5122,
+		5627,
+		5988,
+		6403,
+		6980,
+		7557,
+		8135,
+		8748,
+		9470,
+		10191,
+		10913,
+		11635,
+		12356,
+		13078,
+		13799,
+		14521,
+		15243,
+		15964
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		4400
+	],
+	"Energy": [
+		138
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 5,
+	"ElementPower": [
+		440
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1505012004,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 8,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		4400,
+		4761,
+		5122,
+		5627,
+		5988,
+		6403,
+		6980,
+		7557,
+		8135,
+		8748,
+		9470,
+		10191,
+		10913,
+		11635,
+		12356,
+		13078,
+		13799,
+		14521,
+		15243,
+		15964
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		4400
+	],
+	"Energy": [
+		138
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 5,
+	"ElementPower": [
+		440
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1505003001,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 8,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		1173,
+		1269,
+		1366,
+		1500,
+		1596,
+		1707,
+		1861,
+		2015,
+		2169,
+		2332,
+		2524,
+		2717,
+		2909,
+		3102,
+		3294,
+		3486,
+		3679,
+		3871,
+		4063,
+		4256
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		1173
+	],
+	"Energy": [
+		37
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 5,
+	"ElementPower": [
+		118
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1505003003,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 8,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		1173,
+		1269,
+		1366,
+		1500,
+		1596,
+		1707,
+		1861,
+		2015,
+		2169,
+		2332,
+		2524,
+		2717,
+		2909,
+		3102,
+		3294,
+		3486,
+		3679,
+		3871,
+		4063,
+		4256
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		1173
+	],
+	"Energy": [
+		37
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 5,
+	"ElementPower": [
+		118
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1505004001,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 8,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		3658,
+		3958,
+		4258,
+		4678,
+		4978,
+		5323,
+		5803,
+		6282,
+		6762,
+		7272,
+		7872,
+		8472,
+		9072,
+		9672,
+		10271,
+		10871,
+		11471,
+		12071,
+		12671,
+		13271
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		3658
+	],
+	"Energy": [
+		115
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 5,
+	"ElementPower": [
+		366
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1505201001,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 1,
+	"SubType": [],
+	"SmashType": 8,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		2304,
+		2493,
+		2682,
+		2947,
+		3136,
+		3353,
+		3655,
+		3958,
+		4260,
+		4581,
+		4959,
+		5337,
+		5715,
+		6093,
+		6470,
+		6848,
+		7226,
+		7604,
+		7982,
+		8360
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		3072
+	],
+	"Energy": [
+		96
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 5,
+	"ElementPower": [
+		308
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1505202001,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 8,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		3720,
+		4026,
+		4331,
+		4758,
+		5063,
+		5413,
+		5902,
+		6390,
+		6878,
+		7396,
+		8006,
+		8616,
+		9226,
+		9837,
+		10447,
+		11057,
+		11667,
+		12277,
+		12887,
+		13497
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		4960
+	],
+	"Energy": [
+		155
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 5,
+	"ElementPower": [
+		500
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1505211001,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 1,
+	"SubType": [],
+	"SmashType": 8,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		954,
+		1033,
+		1111,
+		1220,
+		1299,
+		1389,
+		1514,
+		1639,
+		1764,
+		1897,
+		2054,
+		2210,
+		2367,
+		2523,
+		2679,
+		2836,
+		2992,
+		3149,
+		3305,
+		3462
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		1272
+	],
+	"Energy": [
+		40
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 5,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1505301990,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 4,
+	"SubType": [],
+	"SmashType": 8,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		1575,
+		1704,
+		1833,
+		2014,
+		2143,
+		2291,
+		2498,
+		2705,
+		2911,
+		3131,
+		3389,
+		3647,
+		3905,
+		4163,
+		4422,
+		4680,
+		4938,
+		5196,
+		5454,
+		5713
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		4000
+	],
+	"Energy": [
+		200
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 5,
+	"ElementPower": [
+		200
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1505009980,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 8,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		1876,
+		2029,
+		2183,
+		2399,
+		2552,
+		2729,
+		2975,
+		3221,
+		3467,
+		3729,
+		4036,
+		4344,
+		4651,
+		4959,
+		5266,
+		5574,
+		5881,
+		6189,
+		6496,
+		6804
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		1876
+	],
+	"Energy": [
+		59
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 5,
+	"ElementPower": [
+		200
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1505505001,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 2,
+	"SubType": [],
+	"SmashType": 8,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 2,
+	"RateLv": [
+		988,
+		1069,
+		1150,
+		1264,
+		1345,
+		1438,
+		1567,
+		1697,
+		1826,
+		1964,
+		2126,
+		2288,
+		2450,
+		2612,
+		2774,
+		2936,
+		3098,
+		3260,
+		3422,
+		3584
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		3334
+	],
+	"Energy": [
+		334
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 5,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1505600001,
+	"CalculateType": 1,
+	"Element": 0,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		925,
+		1001,
+		1077,
+		1183,
+		1259,
+		1346,
+		1468,
+		1589,
+		1711,
+		1839,
+		1991,
+		2143,
+		2295,
+		2446,
+		2598,
+		2750,
+		2901,
+		3053,
+		3205,
+		3356
+	],
+	"RelatedProperty": 2,
+	"RateLv": [
+		330,
+		358,
+		385,
+		423,
+		450,
+		481,
+		524,
+		567,
+		611,
+		657,
+		711,
+		765,
+		819,
+		873,
+		927,
+		981,
+		1035,
+		1090,
+		1144,
+		1198
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 1,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1505600002,
+	"CalculateType": 1,
+	"Element": 0,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 2,
+	"RateLv": [
+		200,
+		200,
+		200,
+		200,
+		200,
+		200,
+		200,
+		200,
+		200,
+		200,
+		200,
+		200,
+		200,
+		200,
+		200,
+		200,
+		200,
+		200,
+		200,
+		200
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 1,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1505600003,
+	"CalculateType": 1,
+	"Element": 0,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		330,
+		358,
+		385,
+		423,
+		450,
+		481,
+		524,
+		567,
+		611,
+		657,
+		711,
+		765,
+		819,
+		873,
+		927,
+		981,
+		1035,
+		1090,
+		1144,
+		1198
+	],
+	"RelatedProperty": 2,
+	"RateLv": [
+		170,
+		184,
+		198,
+		218,
+		232,
+		248,
+		270,
+		292,
+		315,
+		338,
+		366,
+		394,
+		422,
+		450,
+		478,
+		506,
+		534,
+		562,
+		589,
+		617
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 1,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 80020101,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		5000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		31606
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 80020102,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		10000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		31606
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 80020110,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		5000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		10000
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 80020103,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		10000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		177620
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 80020114,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		5000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		10000
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 80020115,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		15000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		31606
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 80020113,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		5000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		31606
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 80020105,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		25000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		74907
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 80020106,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		12500
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		74907
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 80020107,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		6250
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		31606
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 80020108,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		6250
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		31606
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 80020109,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		25000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		74907
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 800200101,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		5000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		31606
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 800200102,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		10000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		31606
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 800200122,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		10000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		74907
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 800200103,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		10000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		31606
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 800200104,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		15000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		74907
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 800200105,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		10000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		31606
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 800200110,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		2500
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		10000
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 800200111,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		2500
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 800200208,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		5000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		10000
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 800200120,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		5000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 800200308,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		3000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		10000
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 800200309,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		3000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		10000
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 800200310,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		3000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		10000
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 800200311,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		3000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		10000
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 800200312,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		3000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		10000
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 800200307,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		25000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		74907
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 800200108,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		10000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		31606
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 800200106,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		2500
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		10000
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 800200118,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		25000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		74907
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 800200209,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		25000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		74907
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 800200210,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		25000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		74907
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 210002007,
+	"CalculateType": 0,
+	"Element": 2,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 6,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		50
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		500
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 640010031,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		30000
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 1,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 640010032,
+	"CalculateType": 0,
+	"Element": 2,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		30000
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 1,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 640010033,
+	"CalculateType": 0,
+	"Element": 3,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		30000
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 1,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 640010034,
+	"CalculateType": 0,
+	"Element": 4,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		30000
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 1,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 640010035,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		30000
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 1,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 640010036,
+	"CalculateType": 0,
+	"Element": 6,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		30000
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 1,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 640010037,
+	"CalculateType": 0,
+	"Element": 6,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		10000
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 1,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 640010038,
+	"CalculateType": 0,
+	"Element": 6,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		4000
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 1,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 640010039,
+	"CalculateType": 0,
+	"Element": 6,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		2000
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 1,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1000010020,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		60000
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		10000
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1000010021,
+	"CalculateType": 0,
+	"Element": 6,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 5,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		10000
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		10000
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 77076300111,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		10000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		31606
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 77076300201,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		10000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		31606
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 77076300301,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		6000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		10000
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 77076300601,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		5000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		74907
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1505009004,
+	"CalculateType": 1,
+	"Element": 0,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 2,
+	"RateLv": [
+		200,
+		200,
+		200,
+		200,
+		200,
+		200,
+		200,
+		200,
+		200,
+		200,
+		200,
+		200,
+		200,
+		200,
+		200,
+		200,
+		200,
+		200,
+		200,
+		200
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 1,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1305053101,
+	"CalculateType": 0,
+	"Element": 3,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 2,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		2568,
+		2779,
+		2990,
+		3284,
+		3495,
+		3737,
+		4074,
+		4411,
+		4748,
+		5106,
+		5527,
+		5948,
+		6369,
+		6791,
+		7212,
+		7633,
+		8054,
+		8475,
+		8896,
+		9317
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 3,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1305053201,
+	"CalculateType": 0,
+	"Element": 3,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 2,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		4520,
+		4891,
+		5261,
+		5780,
+		6151,
+		6577,
+		7170,
+		7763,
+		8356,
+		8986,
+		9727,
+		10469,
+		11210,
+		11951,
+		12692,
+		13433,
+		14175,
+		14916,
+		15657,
+		16398
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 3,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 200,
+	"CalculateType": 0,
+	"Element": 0,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [
+		0
+	],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		10000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 201,
+	"CalculateType": 0,
+	"Element": 0,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [
+		0,
+		1
+	],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		10000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 70076013001,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		15000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		80000
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 70076014001,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		8500
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		30000
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 80011994779,
+	"CalculateType": 0,
+	"Element": 6,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		3000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 80011994771,
+	"CalculateType": 0,
+	"Element": 6,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		3000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		3000
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1000010022,
+	"CalculateType": 0,
+	"Element": 0,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		30000
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		40000
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1000010023,
+	"CalculateType": 0,
+	"Element": 3,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 1,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		30000
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		10000
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1000010024,
+	"CalculateType": 0,
+	"Element": 4,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		10000
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		10000
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 28009801,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 5,
+	"SubType": [],
+	"SmashType": 5,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		72889
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		11670
+	],
+	"Energy": [
+		292
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 28009811,
+	"CalculateType": 1,
+	"Element": 0,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 5,
+	"SubType": [],
+	"SmashType": 5,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		250
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		2500
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 1,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 28009812,
+	"CalculateType": 1,
+	"Element": 0,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 5,
+	"SubType": [],
+	"SmashType": 5,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		20000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 1,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 28009831,
+	"CalculateType": 0,
+	"Element": 6,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 5,
+	"SubType": [],
+	"SmashType": 5,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		82659
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		9850
+	],
+	"Energy": [
+		247
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 28009841,
+	"CalculateType": 0,
+	"Element": 4,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 5,
+	"SubType": [],
+	"SmashType": 5,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		83626
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		10230
+	],
+	"Energy": [
+		256
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 28009842,
+	"CalculateType": 0,
+	"Element": 4,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 5,
+	"SubType": [],
+	"SmashType": 5,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		22080
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 28009851,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 5,
+	"SubType": [],
+	"SmashType": 5,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		5664
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		2000
+	],
+	"Energy": [
+		50
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 28009861,
+	"CalculateType": 1,
+	"Element": 0,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 2,
+	"RateLv": [
+		1000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		250
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 1,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 28009871,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 5,
+	"SubType": [],
+	"SmashType": 5,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		24681
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		1000
+	],
+	"Energy": [
+		25
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 28009881,
+	"CalculateType": 0,
+	"Element": 3,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 5,
+	"SubType": [],
+	"SmashType": 5,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		129978
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		22790
+	],
+	"Energy": [
+		570
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		4000
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106140005,
+	"CalculateType": 1,
+	"Element": 0,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		694,
+		731,
+		775,
+		868,
+		979,
+		1085,
+		1103,
+		1128,
+		1147,
+		1178,
+		1275,
+		1372,
+		1469,
+		1566,
+		1663,
+		1761,
+		1858,
+		1955,
+		2052,
+		2149
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		2600,
+		2704,
+		2808,
+		2964,
+		3172,
+		3380,
+		3770,
+		4212,
+		4680,
+		5460,
+		5910,
+		6360,
+		6811,
+		7261,
+		7711,
+		8162,
+		8612,
+		9063,
+		9513,
+		9963
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 1,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 70133001001,
+	"CalculateType": 0,
+	"Element": 0,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		4000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		4000
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 70134001001,
+	"CalculateType": 0,
+	"Element": 0,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		6000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		6000
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 70134001002,
+	"CalculateType": 0,
+	"Element": 0,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		6000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		6000
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 8000708002,
+	"CalculateType": 0,
+	"Element": 2,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		10000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		10000
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 8000700494,
+	"CalculateType": 0,
+	"Element": 2,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		10000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		10000
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1000010025,
+	"CalculateType": 2,
+	"Element": 0,
+	"DamageTextType": 1,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 7,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		500
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		100
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 28009872,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 5,
+	"SubType": [],
+	"SmashType": 5,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		4785
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		2000
+	],
+	"Energy": [
+		50
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 28009873,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 5,
+	"SubType": [],
+	"SmashType": 5,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		11961
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		2000
+	],
+	"Energy": [
+		50
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 280013010,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 5,
+	"SubType": [],
+	"SmashType": 5,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 2,
+	"RateLv": [
+		991,
+		1139,
+		1288,
+		1436,
+		1585
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		12160
+	],
+	"Energy": [
+		304
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 280013020,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 5,
+	"SubType": [],
+	"SmashType": 5,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 2,
+	"RateLv": [
+		99,
+		113,
+		128,
+		143,
+		158
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		1216
+	],
+	"Energy": [
+		30
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 280013030,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 5,
+	"SubType": [],
+	"SmashType": 5,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 2,
+	"RateLv": [
+		1239,
+		1424,
+		1610,
+		1796,
+		1982
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		15200
+	],
+	"Energy": [
+		380
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106500007,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 4,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		1872,
+		2026,
+		2179,
+		2394,
+		2547,
+		2724,
+		2969,
+		3215,
+		3460,
+		3721,
+		4028,
+		4335,
+		4642,
+		4949,
+		5256,
+		5563,
+		5870,
+		6177,
+		6484,
+		6791
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		2000
+	],
+	"Energy": [
+		100
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106500008,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 4,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		1872,
+		2026,
+		2179,
+		2394,
+		2547,
+		2724,
+		2969,
+		3215,
+		3460,
+		3721,
+		4028,
+		4335,
+		4642,
+		4949,
+		5256,
+		5563,
+		5870,
+		6177,
+		6484,
+		6791
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		2000
+	],
+	"Energy": [
+		100
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 1,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 8000709001,
+	"CalculateType": 0,
+	"Element": 2,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		100
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 8000709002,
+	"CalculateType": 0,
+	"Element": 2,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		200
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 8000709003,
+	"CalculateType": 0,
+	"Element": 2,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		300
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 8000709004,
+	"CalculateType": 0,
+	"Element": 2,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		400
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 8000709005,
+	"CalculateType": 0,
+	"Element": 2,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		500
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 8000709006,
+	"CalculateType": 0,
+	"Element": 2,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		600
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 8000709007,
+	"CalculateType": 0,
+	"Element": 2,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		700
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 8000709008,
+	"CalculateType": 0,
+	"Element": 2,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		800
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 8000709009,
+	"CalculateType": 0,
+	"Element": 2,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		900
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 8000709010,
+	"CalculateType": 0,
+	"Element": 2,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		1000
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 8000709011,
+	"CalculateType": 0,
+	"Element": 2,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		1100
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 8000709012,
+	"CalculateType": 0,
+	"Element": 2,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		1200
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 8000709013,
+	"CalculateType": 0,
+	"Element": 2,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		1300
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 8000709014,
+	"CalculateType": 0,
+	"Element": 2,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		1400
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 8000709015,
+	"CalculateType": 0,
+	"Element": 2,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		1500
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 8000709016,
+	"CalculateType": 0,
+	"Element": 2,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		1600
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 8000709017,
+	"CalculateType": 0,
+	"Element": 2,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		1700
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 8000709018,
+	"CalculateType": 0,
+	"Element": 2,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		1800
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 8000709019,
+	"CalculateType": 0,
+	"Element": 2,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		1900
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 8000709020,
+	"CalculateType": 0,
+	"Element": 2,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		2000
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 8000709021,
+	"CalculateType": 0,
+	"Element": 2,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		2100
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 8000709022,
+	"CalculateType": 0,
+	"Element": 2,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		2200
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 8000709023,
+	"CalculateType": 0,
+	"Element": 2,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		2300
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 8000709024,
+	"CalculateType": 0,
+	"Element": 2,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		2400
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 8000709025,
+	"CalculateType": 0,
+	"Element": 2,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		2500
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 8000709026,
+	"CalculateType": 0,
+	"Element": 2,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		2600
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 8000709027,
+	"CalculateType": 0,
+	"Element": 2,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		2700
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 8000709028,
+	"CalculateType": 0,
+	"Element": 2,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		2800
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 8000709029,
+	"CalculateType": 0,
+	"Element": 2,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		2900
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 8000709030,
+	"CalculateType": 0,
+	"Element": 2,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		3000
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1505202002,
+	"CalculateType": 0,
+	"Element": 5,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 8,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		3720,
+		4026,
+		4331,
+		4758,
+		5063,
+		5413,
+		5902,
+		6390,
+		6878,
+		7396,
+		8006,
+		8616,
+		9226,
+		9837,
+		10447,
+		11057,
+		11667,
+		12277,
+		12887,
+		13497
+	],
+	"HardnessLv": [
+		10000
+	],
+	"ToughLv": [
+		4960
+	],
+	"Energy": [
+		155
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 5,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1106500009,
+	"CalculateType": 0,
+	"Element": 1,
+	"DamageTextType": -1,
+	"PayloadId": 0,
+	"Type": 4,
+	"SubType": [],
+	"SmashType": 2,
+	"CureBaseValue": [
+		100
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 0,
+	"Percent0": [
+		50
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 1000010026,
+	"CalculateType": 1,
+	"Element": 0,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 2,
+	"RateLv": [
+		1000
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 0,
+	"FormulaParam1": [
+		0
+	],
+	"FormulaParam2": [
+		0
+	],
+	"FormulaParam3": [
+		0
+	],
+	"FormulaParam4": [
+		0
+	],
+	"FormulaParam5": [
+		0
+	],
+	"FormulaParam6": [
+		0
+	],
+	"FormulaParam7": [
+		0
+	],
+	"FormulaParam8": [
+		0
+	],
+	"FormulaParam9": [
+		0
+	],
+	"FormulaParam10": [
+		0
+	],
+	"ImmuneType": 1,
+	"Percent0": [
+		0
+	],
+	"Percent1": [
+		0
+	],
+	"FluctuationLower": [
+		10000
+	],
+	"FluctuationUpper": [
+		10000
+	]
+},
+{
+	"Id": 142,
+	"CalculateType": 0,
+	"Element": 0,
+	"DamageTextType": 0,
+	"PayloadId": 0,
+	"Type": 0,
+	"SubType": [],
+	"SmashType": 1,
+	"CureBaseValue": [
+		0
+	],
+	"RelatedProperty": 7,
+	"RateLv": [
+		0
+	],
+	"HardnessLv": [
+		0
+	],
+	"ToughLv": [
+		0
+	],
+	"Energy": [
+		0
+	],
+	"SpecialEnergy1": [
+		0
+	],
+	"SpecialEnergy2": [
+		0
+	],
+	"SpecialEnergy3": [
+		0
+	],
+	"SpecialEnergy4": [
+		0
+	],
+	"ElementPowerType": 0,
+	"ElementPower": [
+		0
+	],
+	"FormulaType": 3,
+	"FormulaParam1": [
+		2
+	],
+	"FormulaParam2": [
+		1
+	],
+	"FormulaParam3": [
+		5000
 	],
 	"FormulaParam4": [
 		0

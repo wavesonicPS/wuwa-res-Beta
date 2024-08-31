@@ -689,18 +689,6 @@
 	"AffixIcon": ""
 },
 {
-	"Id": 65,
-	"BuffId": 1404500004,
-	"BuffIds": [
-		1404500004
-	],
-	"AffixDesc": "RogueBuffPool_1404500004_BuffDesc",
-	"AffixDescParam": [],
-	"AffixDescSimple": "RogueBuffPool_1404500004_BuffDesc_0",
-	"AffixTitle": "RogueBuffPool_1404500004_BuffDesc_1",
-	"AffixIcon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJiyan/SP_IconJiyanC1.SP_IconJiyanC1"
-},
-{
 	"Id": 66,
 	"BuffId": 1404500006,
 	"BuffIds": [
@@ -805,7 +793,9 @@
 		900000010038
 	],
 	"AffixDesc": "RogueBuffPool_900000010023_BuffDesc",
-	"AffixDescParam": [],
+	"AffixDescParam": [
+		"50%"
+	],
 	"AffixDescSimple": "RogueBuffPool_900000010023_BuffDesc_0",
 	"AffixTitle": "RogueBuffPool_900000010023_BuffDesc_1",
 	"AffixIcon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorSword.SP_IconNorSword"
@@ -831,7 +821,9 @@
 		900000010040
 	],
 	"AffixDesc": "RogueBuffPool_900000010025_BuffDesc",
-	"AffixDescParam": [],
+	"AffixDescParam": [
+		"50%"
+	],
 	"AffixDescSimple": "RogueBuffPool_900000010025_BuffDesc_0",
 	"AffixTitle": "RogueBuffPool_900000010025_BuffDesc_1",
 	"AffixIcon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJiyan/SP_IconJiyanC1.SP_IconJiyanC1"
@@ -1292,7 +1284,9 @@
 	],
 	"AffixDesc": "RogueBuffPool_1501700010_BuffDesc",
 	"AffixDescParam": [
-		"50%"
+		"100%",
+		"50%",
+		"5"
 	],
 	"AffixDescSimple": "RogueBuffPool_1501700010_BuffDesc_0",
 	"AffixTitle": "RogueBuffPool_1501700010_BuffDesc_1",
@@ -1429,18 +1423,6 @@
 	"AffixIcon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorKnife.SP_IconNorKnife"
 },
 {
-	"Id": 114,
-	"BuffId": 1502700030,
-	"BuffIds": [
-		1502700030
-	],
-	"AffixDesc": "RogueBuffPool_1502700030_BuffDesc",
-	"AffixDescParam": [],
-	"AffixDescSimple": "RogueBuffPool_1502700030_BuffDesc_0",
-	"AffixTitle": "RogueBuffPool_1502700030_BuffDesc_1",
-	"AffixIcon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorKnife.SP_IconNorKnife"
-},
-{
 	"Id": 115,
 	"BuffId": 1502700040,
 	"BuffIds": [
@@ -1527,18 +1509,6 @@
 	"AffixIcon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorKnife.SP_IconNorKnife"
 },
 {
-	"Id": 121,
-	"BuffId": 1502700030,
-	"BuffIds": [
-		1502700030
-	],
-	"AffixDesc": "RogueBuffPool_1502700030_BuffDesc",
-	"AffixDescParam": [],
-	"AffixDescSimple": "RogueBuffPool_1502700030_BuffDesc_0",
-	"AffixTitle": "RogueBuffPool_1502700030_BuffDesc_1",
-	"AffixIcon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorKnife.SP_IconNorKnife"
-},
-{
 	"Id": 122,
 	"BuffId": 1502700040,
 	"BuffIds": [
@@ -1564,18 +1534,6 @@
 	"AffixDescSimple": "RogueBuffPool_1502700050_BuffDesc_0",
 	"AffixTitle": "RogueBuffPool_1502700050_BuffDesc_1",
 	"AffixIcon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconZhujue/SP_IconZhujueC1.SP_IconZhujueC1"
-},
-{
-	"Id": 124,
-	"BuffId": 1502700060,
-	"BuffIds": [
-		1502700060
-	],
-	"AffixDesc": "RogueBuffPool_1502700060_BuffDesc",
-	"AffixDescParam": [],
-	"AffixDescSimple": "RogueBuffPool_1502700060_BuffDesc_0",
-	"AffixTitle": "RogueBuffPool_1502700060_BuffDesc_1",
-	"AffixIcon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconZhujue/SP_IconZhujueB1.SP_IconZhujueB1"
 },
 {
 	"Id": 1202001,
@@ -2527,8 +2485,7 @@
 	"AffixDesc": "RogueBuffPool_130302_BuffDesc",
 	"AffixDescParam": [
 		"100%",
-		"4",
-		"1"
+		"100%"
 	],
 	"AffixDescSimple": "RogueBuffPool_130302_BuffDesc_0",
 	"AffixTitle": "RogueBuffPool_130302_BuffDesc_1",
@@ -2538,13 +2495,14 @@
 	"Id": 130303,
 	"BuffId": 1102912011,
 	"BuffIds": [
-		130391200300
+		130391200300,
+		130391200302
 	],
 	"AffixDesc": "RogueBuffPool_130303_BuffDesc",
 	"AffixDescParam": [
 		"400%",
 		"100%",
-		"12%"
+		"8"
 	],
 	"AffixDescSimple": "RogueBuffPool_130303_BuffDesc_0",
 	"AffixTitle": "RogueBuffPool_130303_BuffDesc_1",
@@ -2559,7 +2517,7 @@
 	],
 	"AffixDesc": "RogueBuffPool_130304_BuffDesc",
 	"AffixDescParam": [
-		"100%",
+		"30%",
 		"150",
 		"1%"
 	],
@@ -2572,7 +2530,8 @@
 	"BuffId": 1102912041,
 	"BuffIds": [
 		130391200500,
-		130391200510
+		130391200510,
+		130391200520
 	],
 	"AffixDesc": "RogueBuffPool_130305_BuffDesc",
 	"AffixDescParam": [
@@ -2658,7 +2617,8 @@
 	"Id": 160202,
 	"BuffId": 106291200200,
 	"BuffIds": [
-		106291200200
+		106291200200,
+		106291200220
 	],
 	"AffixDesc": "RogueBuffPool_160202_BuffDesc",
 	"AffixDescParam": [
@@ -2702,7 +2662,8 @@
 		"50%",
 		"20%",
 		"4",
-		"15"
+		"15",
+		"1"
 	],
 	"AffixDescSimple": "RogueBuffPool_160204_BuffDesc_0",
 	"AffixTitle": "RogueBuffPool_160204_BuffDesc_1",
@@ -2721,7 +2682,8 @@
 		"12",
 		"20%",
 		"4",
-		"15"
+		"15",
+		"1"
 	],
 	"AffixDescSimple": "RogueBuffPool_160205_BuffDesc_0",
 	"AffixTitle": "RogueBuffPool_160205_BuffDesc_1",
@@ -2795,7 +2757,7 @@
 		"1",
 		"1.5",
 		"6",
-		"40%",
+		"20%",
 		"8"
 	],
 	"AffixDescSimple": "RogueBuffPool_130501_BuffDesc_0",
@@ -2807,18 +2769,15 @@
 	"BuffId": 1102912021,
 	"BuffIds": [
 		1305999034,
-		1305999022,
-		1305999035
+		1305999022
 	],
 	"AffixDesc": "RogueBuffPool_130502_BuffDesc",
 	"AffixDescParam": [
 		"2",
 		"2",
-		"5",
-		"2",
 		"3",
 		"6",
-		"40%"
+		"20%"
 	],
 	"AffixDescSimple": "RogueBuffPool_130502_BuffDesc_0",
 	"AffixTitle": "RogueBuffPool_130502_BuffDesc_1",
@@ -2831,17 +2790,15 @@
 		1305999003,
 		1305999004,
 		1305999005,
-		1305999006,
-		1305999007,
-		1305999008
+		1305999007
 	],
 	"AffixDesc": "RogueBuffPool_130503_BuffDesc",
 	"AffixDescParam": [
-		"40%",
+		"20%",
 		"5",
 		"1",
-		"30",
-		"3"
+		"10",
+		"1"
 	],
 	"AffixDescSimple": "RogueBuffPool_130503_BuffDesc_0",
 	"AffixTitle": "RogueBuffPool_130503_BuffDesc_1",
@@ -2852,13 +2809,12 @@
 	"BuffId": 1102912051,
 	"BuffIds": [
 		1305999009,
-		1305999010,
 		1305999011,
 		1305999012
 	],
 	"AffixDesc": "RogueBuffPool_130504_BuffDesc",
 	"AffixDescParam": [
-		"60%",
+		"30%",
 		"10%",
 		"15",
 		"20"
@@ -2962,9 +2918,12 @@
 	"AffixDesc": "RogueBuffPool_110502_BuffDesc",
 	"AffixDescParam": [
 		"1",
+		"10",
 		"3",
+		"0.8",
 		"1",
-		"100%"
+		"100%",
+		"0.8"
 	],
 	"AffixDescSimple": "RogueBuffPool_110502_BuffDesc_0",
 	"AffixTitle": "RogueBuffPool_110502_BuffDesc_1",

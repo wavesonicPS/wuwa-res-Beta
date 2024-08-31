@@ -444,7 +444,7 @@
 {
 	"Id": 35,
 	"ParentViewName": "PayShopRootView",
-	"ChildViewName": "PayShopGiftBagView",
+	"ChildViewName": "PayPackageShopView",
 	"TabName": "PayShop_3_Name",
 	"TabIndex": 2,
 	"FunctionId": 0,

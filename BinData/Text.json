@@ -5126,5 +5126,53 @@
 {
 	"Id": "TowerDefence_friendMore",
 	"Text": "TowerDefence_friendMore"
+},
+{
+	"Id": "TowerDefence_Score",
+	"Text": "TowerDefence_Score"
+},
+{
+	"Id": "EchoAbandonSuccess",
+	"Text": "EchoAbandonSuccess"
+},
+{
+	"Id": "EchoAbandonRelease",
+	"Text": "EchoAbandonRelease"
+},
+{
+	"Id": "EchoAbandonToLock",
+	"Text": "EchoAbandonToLock"
+},
+{
+	"Id": "EchoLockToAbandon",
+	"Text": "EchoLockToAbandon"
+},
+{
+	"Id": "Text_BatchEchoLack",
+	"Text": "Text_BatchEchoLack"
+},
+{
+	"Id": "BossRushLevelRewardText",
+	"Text": "BossRushLevelRewardText"
+},
+{
+	"Id": "BossRushScoreRewardText",
+	"Text": "BossRushScoreRewardText"
+},
+{
+	"Id": "RiskHarvest_HandbookUnlock",
+	"Text": "RiskHarvest_HandbookUnlock"
+},
+{
+	"Id": "PrefabTextItem_1333511122_Text",
+	"Text": "PrefabTextItem_1333511122_Text"
+},
+{
+	"Id": "TowerDefense_ReviveCountdown",
+	"Text": "ReviveCountdownTime"
+},
+{
+	"Id": "ActivityCorniceMeetingPointNeed",
+	"Text": "ActivityCorniceMeetingPointNeed"
 }
 ]

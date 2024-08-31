@@ -379,9 +379,7 @@
 	"Column": 0,
 	"Row": 1,
 	"PostId": [
-		302,
-		303,
-		304
+		314
 	],
 	"Condition": 0,
 	"Consule": [
@@ -393,7 +391,7 @@
 	"Id": 302,
 	"SeasonId": 3,
 	"TalentType": 0,
-	"Column": 1,
+	"Column": 2,
 	"Row": 0,
 	"PostId": [
 		305
@@ -405,32 +403,17 @@
 	"Describe": 302
 },
 {
-	"Id": 303,
+	"Id": 304,
 	"SeasonId": 3,
 	"TalentType": 0,
-	"Column": 1,
-	"Row": 1,
+	"Column": 3,
+	"Row": 2,
 	"PostId": [
-		306
+		315
 	],
 	"Condition": 0,
 	"Consule": [
 		40
-	],
-	"Describe": 303
-},
-{
-	"Id": 304,
-	"SeasonId": 3,
-	"TalentType": 0,
-	"Column": 1,
-	"Row": 2,
-	"PostId": [
-		307
-	],
-	"Condition": 0,
-	"Consule": [
-		30
 	],
 	"Describe": 304
 },
@@ -438,9 +421,11 @@
 	"Id": 305,
 	"SeasonId": 3,
 	"TalentType": 0,
-	"Column": 2,
+	"Column": 3,
 	"Row": 0,
-	"PostId": [],
+	"PostId": [
+		311
+	],
 	"Condition": 0,
 	"Consule": [
 		40
@@ -454,13 +439,11 @@
 	"Column": 2,
 	"Row": 1,
 	"PostId": [
-		308,
-		309,
-		310
+		309
 	],
 	"Condition": 0,
 	"Consule": [
-		50
+		30
 	],
 	"Describe": 306
 },
@@ -470,10 +453,12 @@
 	"TalentType": 0,
 	"Column": 2,
 	"Row": 2,
-	"PostId": [],
+	"PostId": [
+		304
+	],
 	"Condition": 0,
 	"Consule": [
-		40
+		30
 	],
 	"Describe": 307
 },
@@ -481,14 +466,16 @@
 	"Id": 308,
 	"SeasonId": 3,
 	"TalentType": 0,
-	"Column": 3,
-	"Row": 0,
+	"Column": 4,
+	"Row": 1,
 	"PostId": [
-		311
+		310,
+		312,
+		313
 	],
 	"Condition": 0,
 	"Consule": [
-		40
+		80
 	],
 	"Describe": 308
 },
@@ -499,11 +486,11 @@
 	"Column": 3,
 	"Row": 1,
 	"PostId": [
-		312
+		308
 	],
 	"Condition": 0,
 	"Consule": [
-		50
+		60
 	],
 	"Describe": 309
 },
@@ -511,14 +498,12 @@
 	"Id": 310,
 	"SeasonId": 3,
 	"TalentType": 0,
-	"Column": 3,
+	"Column": 5,
 	"Row": 2,
-	"PostId": [
-		313
-	],
+	"PostId": [],
 	"Condition": 0,
 	"Consule": [
-		40
+		80
 	],
 	"Describe": 310
 },
@@ -531,20 +516,22 @@
 	"PostId": [],
 	"Condition": 0,
 	"Consule": [
-		50
+		60
 	],
-	"Describe": 12
+	"Describe": 315
 },
 {
 	"Id": 312,
 	"SeasonId": 3,
 	"TalentType": 0,
-	"Column": 4,
+	"Column": 5,
 	"Row": 1,
-	"PostId": [],
+	"PostId": [
+		316
+	],
 	"Condition": 0,
 	"Consule": [
-		60
+		100
 	],
 	"Describe": 312
 },
@@ -552,13 +539,56 @@
 	"Id": 313,
 	"SeasonId": 3,
 	"TalentType": 0,
+	"Column": 5,
+	"Row": 0,
+	"PostId": [],
+	"Condition": 0,
+	"Consule": [
+		80
+	],
+	"Describe": 313
+},
+{
+	"Id": 314,
+	"SeasonId": 3,
+	"TalentType": 0,
+	"Column": 1,
+	"Row": 1,
+	"PostId": [
+		302,
+		306,
+		307
+	],
+	"Condition": 0,
+	"Consule": [
+		30
+	],
+	"Describe": 314
+},
+{
+	"Id": 315,
+	"SeasonId": 3,
+	"TalentType": 0,
 	"Column": 4,
 	"Row": 2,
 	"PostId": [],
 	"Condition": 0,
 	"Consule": [
-		50
+		60
 	],
-	"Describe": 313
+	"Describe": 316
+},
+{
+	"Id": 316,
+	"SeasonId": 3,
+	"TalentType": 0,
+	"Column": 6,
+	"Row": 1,
+	"PostId": [],
+	"Condition": 0,
+	"Consule": [
+		100
+	],
+	"Describe": 317
 }
 ]

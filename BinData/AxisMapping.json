@@ -12,7 +12,9 @@
 	"GamepadKeys": {
 		"Gamepad_RightY": 0.699999988079071
 	},
-	"DisplayName": ""
+	"DisplayName": "",
+	"KeyboardVersion": 0,
+	"GamepadVersion": 0
 },
 {
 	"Id": 2,
@@ -29,7 +31,9 @@
 	"GamepadKeys": {
 		"Gamepad_LeftY": 1
 	},
-	"DisplayName": ""
+	"DisplayName": "",
+	"KeyboardVersion": 0,
+	"GamepadVersion": 0
 },
 {
 	"Id": 3,
@@ -46,7 +50,9 @@
 	"GamepadKeys": {
 		"Gamepad_LeftX": 1
 	},
-	"DisplayName": ""
+	"DisplayName": "",
+	"KeyboardVersion": 0,
+	"GamepadVersion": 0
 },
 {
 	"Id": 4,
@@ -61,7 +67,9 @@
 	"GamepadKeys": {
 		"Gamepad_RightX": 0.699999988079071
 	},
-	"DisplayName": ""
+	"DisplayName": "",
+	"KeyboardVersion": 0,
+	"GamepadVersion": 0
 },
 {
 	"Id": 5,
@@ -74,7 +82,9 @@
 		"MouseWheelAxis": 1
 	},
 	"GamepadKeys": {},
-	"DisplayName": ""
+	"DisplayName": "",
+	"KeyboardVersion": 0,
+	"GamepadVersion": 0
 },
 {
 	"Id": 6,
@@ -87,7 +97,9 @@
 		"MouseWheelAxis": 1
 	},
 	"GamepadKeys": {},
-	"DisplayName": ""
+	"DisplayName": "",
+	"KeyboardVersion": 0,
+	"GamepadVersion": 0
 },
 {
 	"Id": 7,
@@ -102,7 +114,9 @@
 	"GamepadKeys": {
 		"Gamepad_RightTriggerAxis": -1
 	},
-	"DisplayName": ""
+	"DisplayName": "",
+	"KeyboardVersion": 0,
+	"GamepadVersion": 0
 },
 {
 	"Id": 8,
@@ -117,7 +131,9 @@
 	"GamepadKeys": {
 		"Gamepad_LeftTriggerAxis": 1
 	},
-	"DisplayName": ""
+	"DisplayName": "",
+	"KeyboardVersion": 0,
+	"GamepadVersion": 0
 },
 {
 	"Id": 9,
@@ -134,7 +150,9 @@
 	"GamepadKeys": {
 		"Gamepad_LeftY": 1
 	},
-	"DisplayName": ""
+	"DisplayName": "",
+	"KeyboardVersion": 0,
+	"GamepadVersion": 0
 },
 {
 	"Id": 10,
@@ -151,7 +169,9 @@
 	"GamepadKeys": {
 		"Gamepad_LeftX": 1
 	},
-	"DisplayName": ""
+	"DisplayName": "",
+	"KeyboardVersion": 0,
+	"GamepadVersion": 0
 },
 {
 	"Id": 11,
@@ -163,7 +183,9 @@
 		"Gamepad_DPad_Right": 0.20000000298023224,
 		"Gamepad_LeftX": 0.20000000298023224
 	},
-	"DisplayName": ""
+	"DisplayName": "",
+	"KeyboardVersion": 0,
+	"GamepadVersion": 0
 },
 {
 	"Id": 12,
@@ -175,7 +197,9 @@
 		"Gamepad_DPad_Left": -0.20000000298023224,
 		"Gamepad_LeftX": 0.20000000298023224
 	},
-	"DisplayName": ""
+	"DisplayName": "",
+	"KeyboardVersion": 0,
+	"GamepadVersion": 0
 },
 {
 	"Id": 13,
@@ -186,7 +210,9 @@
 	"GamepadKeys": {
 		"Gamepad_LeftY": 1
 	},
-	"DisplayName": ""
+	"DisplayName": "",
+	"KeyboardVersion": 0,
+	"GamepadVersion": 0
 },
 {
 	"Id": 14,
@@ -197,7 +223,9 @@
 	"GamepadKeys": {
 		"Gamepad_LeftX": 1
 	},
-	"DisplayName": ""
+	"DisplayName": "",
+	"KeyboardVersion": 0,
+	"GamepadVersion": 0
 },
 {
 	"Id": 15,
@@ -208,7 +236,9 @@
 	"GamepadKeys": {
 		"Gamepad_RightY": 1
 	},
-	"DisplayName": ""
+	"DisplayName": "",
+	"KeyboardVersion": 0,
+	"GamepadVersion": 0
 },
 {
 	"Id": 16,
@@ -219,7 +249,9 @@
 	"GamepadKeys": {
 		"Gamepad_RightX": 1
 	},
-	"DisplayName": ""
+	"DisplayName": "",
+	"KeyboardVersion": 0,
+	"GamepadVersion": 0
 },
 {
 	"Id": 17,
@@ -234,7 +266,9 @@
 	"GamepadKeys": {
 		"Gamepad_RightY": 1
 	},
-	"DisplayName": ""
+	"DisplayName": "",
+	"KeyboardVersion": 0,
+	"GamepadVersion": 0
 },
 {
 	"Id": 18,
@@ -249,7 +283,9 @@
 	"GamepadKeys": {
 		"Gamepad_RightX": 1
 	},
-	"DisplayName": ""
+	"DisplayName": "",
+	"KeyboardVersion": 0,
+	"GamepadVersion": 0
 },
 {
 	"Id": 19,
@@ -262,7 +298,9 @@
 		"MouseWheelAxis": 1
 	},
 	"GamepadKeys": {},
-	"DisplayName": ""
+	"DisplayName": "",
+	"KeyboardVersion": 0,
+	"GamepadVersion": 0
 },
 {
 	"Id": 20,
@@ -277,7 +315,9 @@
 	"GamepadKeys": {
 		"Gamepad_Left2D": 1
 	},
-	"DisplayName": ""
+	"DisplayName": "",
+	"KeyboardVersion": 0,
+	"GamepadVersion": 0
 },
 {
 	"Id": 21,
@@ -292,7 +332,9 @@
 	"GamepadKeys": {
 		"Gamepad_Right2D": 1
 	},
-	"DisplayName": ""
+	"DisplayName": "",
+	"KeyboardVersion": 0,
+	"GamepadVersion": 0
 },
 {
 	"Id": 22,
@@ -307,7 +349,9 @@
 		"MouseY": 1
 	},
 	"GamepadKeys": {},
-	"DisplayName": ""
+	"DisplayName": "",
+	"KeyboardVersion": 0,
+	"GamepadVersion": 0
 },
 {
 	"Id": 23,
@@ -318,7 +362,9 @@
 	"GamepadKeys": {
 		"Gamepad_LeftX": 1
 	},
-	"DisplayName": ""
+	"DisplayName": "",
+	"KeyboardVersion": 0,
+	"GamepadVersion": 0
 },
 {
 	"Id": 24,
@@ -329,7 +375,9 @@
 	"GamepadKeys": {
 		"Gamepad_LeftX": 1
 	},
-	"DisplayName": ""
+	"DisplayName": "",
+	"KeyboardVersion": 0,
+	"GamepadVersion": 0
 },
 {
 	"Id": 25,
@@ -340,7 +388,9 @@
 	"GamepadKeys": {
 		"Gamepad_LeftTriggerAxis": -1
 	},
-	"DisplayName": ""
+	"DisplayName": "",
+	"KeyboardVersion": 0,
+	"GamepadVersion": 0
 },
 {
 	"Id": 26,
@@ -351,7 +401,9 @@
 	"GamepadKeys": {
 		"Gamepad_RightTriggerAxis": 1
 	},
-	"DisplayName": ""
+	"DisplayName": "",
+	"KeyboardVersion": 0,
+	"GamepadVersion": 0
 },
 {
 	"Id": 27,
@@ -368,7 +420,9 @@
 	"GamepadKeys": {
 		"Gamepad_LeftY": 1
 	},
-	"DisplayName": ""
+	"DisplayName": "",
+	"KeyboardVersion": 0,
+	"GamepadVersion": 0
 },
 {
 	"Id": 28,
@@ -385,7 +439,9 @@
 	"GamepadKeys": {
 		"Gamepad_LeftX": 1
 	},
-	"DisplayName": ""
+	"DisplayName": "",
+	"KeyboardVersion": 0,
+	"GamepadVersion": 0
 },
 {
 	"Id": 29,
@@ -396,7 +452,9 @@
 	"GamepadKeys": {
 		"Gamepad_RightY": 1
 	},
-	"DisplayName": ""
+	"DisplayName": "",
+	"KeyboardVersion": 0,
+	"GamepadVersion": 0
 },
 {
 	"Id": 30,
@@ -407,7 +465,9 @@
 	"GamepadKeys": {
 		"Gamepad_RightX": 1
 	},
-	"DisplayName": ""
+	"DisplayName": "",
+	"KeyboardVersion": 0,
+	"GamepadVersion": 0
 },
 {
 	"Id": 31,
@@ -418,7 +478,9 @@
 	"GamepadKeys": {
 		"Gamepad_RightTriggerAxis": -1
 	},
-	"DisplayName": ""
+	"DisplayName": "",
+	"KeyboardVersion": 0,
+	"GamepadVersion": 0
 },
 {
 	"Id": 32,
@@ -429,7 +491,9 @@
 	"GamepadKeys": {
 		"Gamepad_LeftTriggerAxis": 1
 	},
-	"DisplayName": ""
+	"DisplayName": "",
+	"KeyboardVersion": 0,
+	"GamepadVersion": 0
 },
 {
 	"Id": 33,
@@ -441,7 +505,9 @@
 		"Gamepad_LeftTriggerAxis": -1,
 		"Gamepad_RightY": -1
 	},
-	"DisplayName": ""
+	"DisplayName": "",
+	"KeyboardVersion": 0,
+	"GamepadVersion": 0
 },
 {
 	"Id": 34,
@@ -453,6 +519,8 @@
 		"Gamepad_RightTriggerAxis": 1,
 		"Gamepad_RightY": -1
 	},
-	"DisplayName": ""
+	"DisplayName": "",
+	"KeyboardVersion": 0,
+	"GamepadVersion": 0
 }
 ]

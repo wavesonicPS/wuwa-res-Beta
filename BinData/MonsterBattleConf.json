@@ -658,5 +658,26 @@
 	"ExecutionRadius": 3,
 	"ForceLockOnCoefficient": 0,
 	"MonsterSizeId": 2
+},
+{
+	"Id": 770491,
+	"ExecutionId": [],
+	"ExecutionRadius": 3,
+	"ForceLockOnCoefficient": 0,
+	"MonsterSizeId": 4
+},
+{
+	"Id": 80114001,
+	"ExecutionId": [],
+	"ExecutionRadius": 3,
+	"ForceLockOnCoefficient": 0,
+	"MonsterSizeId": 7
+},
+{
+	"Id": 80007002,
+	"ExecutionId": [],
+	"ExecutionRadius": 3,
+	"ForceLockOnCoefficient": 0,
+	"MonsterSizeId": 7
 }
 ]

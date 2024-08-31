@@ -186,7 +186,7 @@
 	"ViewName": "ShopView10114",
 	"Title": "NpcSystemBackground_10114_Title",
 	"TitleSpritePath": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconGift.SP_IconGift",
-	"ContentSpritePath": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconGift.SP_IconGift",
+	"ContentSpritePath": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_BlackIconGift.SP_BlackIconGift",
 	"CostItemList": [
 		2
 	],
@@ -198,7 +198,7 @@
 	"ViewName": "ShopView10115",
 	"Title": "NpcSystemBackground_10115_Title",
 	"TitleSpritePath": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconGift.SP_IconGift",
-	"ContentSpritePath": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconGift.SP_IconGift",
+	"ContentSpritePath": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_BlackIconGift.SP_BlackIconGift",
 	"CostItemList": [
 		2
 	],
@@ -210,7 +210,19 @@
 	"ViewName": "ShopView10116",
 	"Title": "NpcSystemBackground_10116_Title",
 	"TitleSpritePath": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconGift.SP_IconGift",
-	"ContentSpritePath": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconGift.SP_IconGift",
+	"ContentSpritePath": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_BlackIconGift.SP_BlackIconGift",
+	"CostItemList": [
+		15
+	],
+	"IsHelpButtonVisible": false,
+	"HelpGroupId": 0
+},
+{
+	"Id": 10117,
+	"ViewName": "ShopView10117",
+	"Title": "NpcSystemBackground_10117_Title",
+	"TitleSpritePath": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconKuroShop.SP_IconKuroShop",
+	"ContentSpritePath": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_BlackIconKuroShop.SP_BlackIconKuroShop",
 	"CostItemList": [
 		2
 	],

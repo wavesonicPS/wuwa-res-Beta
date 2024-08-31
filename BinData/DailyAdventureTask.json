@@ -205,5 +205,16 @@
 		"3",
 		"RoleWeaponTabView"
 	]
+},
+{
+	"TaskId": 1019,
+	"TaskTitle": "ActivityAdventureTask_1019_Title",
+	"TaskDescription": "ActivityAdventureTask_1019_Desc",
+	"TaskReward": {
+		"13": 10
+	},
+	"TaskFunc": [
+		"1"
+	]
 }
 ]

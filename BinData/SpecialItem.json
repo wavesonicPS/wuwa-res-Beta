@@ -1,6 +1,7 @@
 [
 {
 	"Id": 70140001,
+	"UseButtonAdditionParam": [],
 	"SpecialItemType": 0,
 	"Parameters": [],
 	"UseInMultiMode": true,
@@ -18,6 +19,7 @@
 },
 {
 	"Id": 70140002,
+	"UseButtonAdditionParam": [],
 	"SpecialItemType": 0,
 	"Parameters": [],
 	"UseInMultiMode": true,
@@ -35,6 +37,7 @@
 },
 {
 	"Id": 70139304,
+	"UseButtonAdditionParam": [],
 	"SpecialItemType": 1,
 	"Parameters": [],
 	"UseInMultiMode": true,
@@ -46,6 +49,7 @@
 },
 {
 	"Id": 70140011,
+	"UseButtonAdditionParam": [],
 	"SpecialItemType": 1,
 	"Parameters": [],
 	"UseInMultiMode": true,
@@ -57,6 +61,7 @@
 },
 {
 	"Id": 70139300,
+	"UseButtonAdditionParam": [],
 	"SpecialItemType": 1,
 	"Parameters": [],
 	"UseInMultiMode": true,
@@ -68,6 +73,7 @@
 },
 {
 	"Id": 70140003,
+	"UseButtonAdditionParam": [],
 	"SpecialItemType": 1,
 	"Parameters": [],
 	"UseInMultiMode": true,
@@ -79,6 +85,10 @@
 },
 {
 	"Id": 70140004,
+	"UseButtonAdditionParam": [
+		1,
+		4
+	],
 	"SpecialItemType": 0,
 	"Parameters": [],
 	"UseInMultiMode": true,
@@ -95,15 +105,17 @@
 },
 {
 	"Id": 70139331,
+	"UseButtonAdditionParam": [],
 	"SpecialItemType": 0,
 	"Parameters": [],
 	"UseInMultiMode": false,
 	"UseInstance": false,
 	"BanTags": [
-		"关卡.道具.乘霄山.禁止使用时停"
+		"关卡.道具.乘霄山.禁止使用时停",
+		"行为状态.位置状态.水中",
+		"行为状态.位置状态.攀爬"
 	],
 	"AllowTags": [
-		"行为状态.位置状态.地面",
 		"关卡.道具.乘霄山.可使用时停区域"
 	],
 	"SummonConfigId": 0,
@@ -111,11 +123,12 @@
 },
 {
 	"Id": 70140021,
+	"UseButtonAdditionParam": [],
 	"SpecialItemType": 0,
 	"Parameters": [
 		"Gameplay355"
 	],
-	"UseInMultiMode": true,
+	"UseInMultiMode": false,
 	"UseInstance": false,
 	"BanTags": [],
 	"AllowTags": [
@@ -126,11 +139,12 @@
 },
 {
 	"Id": 70140025,
+	"UseButtonAdditionParam": [],
 	"SpecialItemType": 0,
 	"Parameters": [
 		"Gameplay355"
 	],
-	"UseInMultiMode": true,
+	"UseInMultiMode": false,
 	"UseInstance": false,
 	"BanTags": [],
 	"AllowTags": [
@@ -138,5 +152,53 @@
 	],
 	"SummonConfigId": 0,
 	"NeedShowNum": true
+},
+{
+	"Id": 70140012,
+	"UseButtonAdditionParam": [],
+	"SpecialItemType": 1,
+	"Parameters": [],
+	"UseInMultiMode": false,
+	"UseInstance": false,
+	"BanTags": [],
+	"AllowTags": [],
+	"SummonConfigId": 0,
+	"NeedShowNum": false
+},
+{
+	"Id": 70140013,
+	"UseButtonAdditionParam": [],
+	"SpecialItemType": 1,
+	"Parameters": [],
+	"UseInMultiMode": false,
+	"UseInstance": false,
+	"BanTags": [],
+	"AllowTags": [],
+	"SummonConfigId": 0,
+	"NeedShowNum": false
+},
+{
+	"Id": 70140014,
+	"UseButtonAdditionParam": [],
+	"SpecialItemType": 1,
+	"Parameters": [],
+	"UseInMultiMode": true,
+	"UseInstance": true,
+	"BanTags": [],
+	"AllowTags": [],
+	"SummonConfigId": 0,
+	"NeedShowNum": false
+},
+{
+	"Id": 70140015,
+	"UseButtonAdditionParam": [],
+	"SpecialItemType": 1,
+	"Parameters": [],
+	"UseInMultiMode": false,
+	"UseInstance": false,
+	"BanTags": [],
+	"AllowTags": [],
+	"SummonConfigId": 0,
+	"NeedShowNum": false
 }
 ]

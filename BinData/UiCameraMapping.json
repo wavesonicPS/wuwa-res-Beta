@@ -102,7 +102,7 @@
 	"BodyCameraSettingsNameMap": {
 		"FemaleM": "1069",
 		"MaleM": "1069",
-		"FemaleS": "1069",
+		"FemaleS": "1076",
 		"MaleS": "1069",
 		"FemaleXL": "1069",
 		"MaleXL": "1069"
@@ -1050,6 +1050,19 @@
 		"RoleRootView": "1001",
 		"RoleBreachView": "1001"
 	},
+	"UiCameraDelayTime": 0
+},
+{
+	"Id": 1069,
+	"ViewName": "ReviveView",
+	"DefaultUiCameraSettingsName": "1001",
+	"IsCheckSpecialState": false,
+	"SpecialStateCameraSettingName": "1002",
+	"bPlayLoadingCameraAnimation": true,
+	"BodyTargetType": 0,
+	"BodyCameraSettingsNameMap": {},
+	"DefaultCameraBlendName": "",
+	"UiCameraBlendNameMap": {},
 	"UiCameraDelayTime": 0
 }
 ]

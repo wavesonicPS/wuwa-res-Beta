@@ -523,10 +523,10 @@
 },
 {
 	"Id": 11051,
-	"Name": "一键毕业-关卡测试",
+	"Name": "一键毕业-关卡测试1.2",
 	"NameOverride": "一键毕业-关卡测试",
-	"Code": "RunOrderList#135",
-	"CodeOverride": "RunOrderList#135",
+	"Code": "RunOrderList#138",
+	"CodeOverride": "RunOrderList#138",
 	"Sort": 11051,
 	"Visible": true
 },
@@ -1050,6 +1050,15 @@
 	"Code": "clear_resource 资源名",
 	"CodeOverride": "clear_resource all",
 	"Sort": 13081,
+	"Visible": true
+},
+{
+	"Id": 14041,
+	"Name": "传送到当前玩法追踪位置",
+	"NameOverride": "传送当前玩法追踪位置",
+	"Code": "TeleportToCurLevelPlayTrackPosition#当前活跃节点中的第X个",
+	"CodeOverride": "TeleportToCurLevelPlayTrackPosition#1",
+	"Sort": 14041,
 	"Visible": true
 }
 ]

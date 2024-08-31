@@ -378,5 +378,45 @@
 	"Id": 227,
 	"RoomTipsType": 0,
 	"RoomsMusicState": "stage2_safe"
+},
+{
+	"Id": 110,
+	"RoomTipsType": 0,
+	"RoomsMusicState": "stage2_dangerous"
+},
+{
+	"Id": 111,
+	"RoomTipsType": 0,
+	"RoomsMusicState": "stage1_dangerous"
+},
+{
+	"Id": 112,
+	"RoomTipsType": 0,
+	"RoomsMusicState": "stage2_dangerous"
+},
+{
+	"Id": 113,
+	"RoomTipsType": 0,
+	"RoomsMusicState": "stage1_dangerous"
+},
+{
+	"Id": 114,
+	"RoomTipsType": 0,
+	"RoomsMusicState": "stage2_dangerous"
+},
+{
+	"Id": 115,
+	"RoomTipsType": 0,
+	"RoomsMusicState": "stage2_dangerous"
+},
+{
+	"Id": 116,
+	"RoomTipsType": 1,
+	"RoomsMusicState": "stage2_safe"
+},
+{
+	"Id": 117,
+	"RoomTipsType": 1,
+	"RoomsMusicState": "stage2_safe"
 }
 ]

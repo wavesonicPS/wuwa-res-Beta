@@ -15,8 +15,7 @@
 		1011,
 		1012,
 		1016,
-		1017,
-		1018
+		1017
 	],
 	"RewardList": [
 		1201,
@@ -84,6 +83,35 @@
 		1003,
 		1004,
 		1005
+	],
+	"TaskRefreshNum": 2
+},
+{
+	"ActivityId": 101200004,
+	"AreaTitle": "ActivityAdventure_101200004_Title",
+	"AreaDescription": "ActivityAdventure_101200001_Desc",
+	"AreaPic": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityAdventure/T_AdventurePix4.T_AdventurePix4",
+	"AreaDefaultMarkId": 300011,
+	"TaskList": [
+		1002,
+		1003,
+		1004,
+		1006,
+		1008,
+		1009,
+		1011,
+		1012,
+		1016,
+		1017,
+		1018,
+		1019
+	],
+	"RewardList": [
+		1201,
+		1202,
+		1203,
+		1204,
+		1205
 	],
 	"TaskRefreshNum": 2
 }

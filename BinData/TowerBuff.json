@@ -184,5 +184,47 @@
 	"Name": "",
 	"Desc": "TowerChallengeBuff_92008030_Desc",
 	"Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+},
+{
+	"Id": 92008032,
+	"Name": "",
+	"Desc": "TowerChallengeBuff_92008032_Desc",
+	"Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+},
+{
+	"Id": 92008033,
+	"Name": "",
+	"Desc": "TowerChallengeBuff_92008033_Desc",
+	"Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+},
+{
+	"Id": 92008034,
+	"Name": "",
+	"Desc": "TowerChallengeBuff_92008034_Desc",
+	"Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+},
+{
+	"Id": 92008035,
+	"Name": "",
+	"Desc": "TowerChallengeBuff_92008035_Desc",
+	"Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+},
+{
+	"Id": 92008036,
+	"Name": "",
+	"Desc": "TowerChallengeBuff_92008036_Desc",
+	"Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+},
+{
+	"Id": 92008037,
+	"Name": "",
+	"Desc": "TowerChallengeBuff_92008037_Desc",
+	"Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+},
+{
+	"Id": 92008039,
+	"Name": "",
+	"Desc": "TowerChallengeBuff_92008039_Desc",
+	"Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
 }
 ]

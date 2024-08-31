@@ -199,7 +199,8 @@
 		"10807": 1
 	},
 	"Authorization": {
-		"1": 10805
+		"1": 10805,
+		"900": 10805
 	},
 	"SummonConfigId": 0
 },
@@ -219,7 +220,8 @@
 	"IsUseInPhantomTeam": false,
 	"Cost": {},
 	"Authorization": {
-		"1": 10806
+		"1": 10806,
+		"900": 10806
 	},
 	"SummonConfigId": 0
 },

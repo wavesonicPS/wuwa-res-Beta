@@ -2068,99 +2068,12 @@
 	"DynamicEffectTagMap": {}
 },
 {
-	"Id": 15041002,
-	"RoleId": 1504,
-	"Name": "攻击",
-	"ButtonType": 4,
-	"ActionType": 4,
-	"SkillId": 1603001,
-	"SkillIdTagMap": {},
-	"SkillIconTags": [
-		"行为状态.逻辑状态.新控物.控制"
-	],
-	"EnableTags": [],
-	"DisableTags": [
-		"战斗状态.技能限制.禁止普攻",
-		"行为状态.逻辑状态.控物.控物空中投掷禁止"
-	],
-	"DisableSkillIdTags": {},
-	"HiddenTags": [],
-	"IsCdVisible": true,
-	"AttributeId": 0,
-	"MaxAttributeId": 0,
-	"AttributeIdTagMap": {},
-	"MaxAttributeBurstEffectId": 0,
-	"CdCompletedEffectId": 0,
-	"IsLongPressControlCamera": false,
-	"LongPressTime": 0,
-	"DynamicEffectTagMap": {}
-},
-{
-	"Id": 15041004,
-	"RoleId": 1504,
-	"Name": "共鸣技能",
-	"ButtonType": 6,
-	"ActionType": 6,
-	"SkillId": 1603010,
-	"SkillIdTagMap": {
-		"角色.R2T1ChunMd10011.共鸣.共鸣2": 1603011
-	},
-	"SkillIconTags": [],
-	"EnableTags": [],
-	"DisableTags": [
-		"功能.功能制作.被击硬直时间",
-		"战斗状态.技能限制.禁止E技能"
-	],
-	"DisableSkillIdTags": {},
-	"HiddenTags": [
-		"功能.功能制作.隐藏按钮功能.隐藏技能按键"
-	],
-	"IsCdVisible": true,
-	"AttributeId": 0,
-	"MaxAttributeId": 0,
-	"AttributeIdTagMap": {},
-	"MaxAttributeBurstEffectId": 0,
-	"CdCompletedEffectId": 0,
-	"IsLongPressControlCamera": false,
-	"LongPressTime": 0,
-	"DynamicEffectTagMap": {}
-},
-{
-	"Id": 15041006,
-	"RoleId": 1504,
-	"Name": "共鸣解放",
-	"ButtonType": 8,
-	"ActionType": 8,
-	"SkillId": 1603300,
-	"SkillIdTagMap": {},
-	"SkillIconTags": [],
-	"EnableTags": [],
-	"DisableTags": [
-		"功能.功能制作.被击硬直时间",
-		"战斗状态.技能限制.禁止大招",
-		"行为状态.位置状态.空中"
-	],
-	"DisableSkillIdTags": {},
-	"HiddenTags": [
-		"功能.功能制作.隐藏按钮功能.隐藏大招按键"
-	],
-	"IsCdVisible": true,
-	"AttributeId": 60,
-	"MaxAttributeId": 59,
-	"AttributeIdTagMap": {},
-	"MaxAttributeBurstEffectId": 0,
-	"CdCompletedEffectId": 0,
-	"IsLongPressControlCamera": false,
-	"LongPressTime": 0,
-	"DynamicEffectTagMap": {}
-},
-{
 	"Id": 15051002,
 	"RoleId": 1505,
 	"Name": "攻击",
 	"ButtonType": 4,
 	"ActionType": 4,
-	"SkillId": 1603001,
+	"SkillId": 1505001,
 	"SkillIdTagMap": {},
 	"SkillIconTags": [
 		"行为状态.逻辑状态.新控物.控制"
@@ -2188,15 +2101,20 @@
 	"Name": "共鸣技能",
 	"ButtonType": 6,
 	"ActionType": 6,
-	"SkillId": 1603010,
+	"SkillId": 1505301,
 	"SkillIdTagMap": {
-		"角色.R2T1ChunMd10011.共鸣.共鸣2": 1603011
+		"角色.Common.技能通用标识.控物拼图旋转.可用": 210009,
+		"角色.Common.技能通用标识.控物拼图旋转.不可用": 210009,
+		"行为状态.位置状态.空中": 1505302
 	},
 	"SkillIconTags": [],
-	"EnableTags": [],
+	"EnableTags": [
+		"角色.Common.技能通用标识.控物拼图旋转.可用"
+	],
 	"DisableTags": [
 		"功能.功能制作.被击硬直时间",
-		"战斗状态.技能限制.禁止E技能"
+		"战斗状态.技能限制.禁止E技能",
+		"角色.Common.技能通用标识.控物拼图旋转.不可用"
 	],
 	"DisableSkillIdTags": {},
 	"HiddenTags": [
@@ -2218,7 +2136,7 @@
 	"Name": "共鸣解放",
 	"ButtonType": 8,
 	"ActionType": 8,
-	"SkillId": 1603300,
+	"SkillId": 1505401,
 	"SkillIdTagMap": {},
 	"SkillIconTags": [],
 	"EnableTags": [],
@@ -3072,6 +2990,8 @@
 	"ActionType": 6,
 	"SkillId": 1105101,
 	"SkillIdTagMap": {
+		"角色.Common.技能通用标识.控物拼图旋转.可用": 210009,
+		"角色.Common.技能通用标识.控物拼图旋转.不可用": 210009,
 		"角色.R2T1ZhezhiMd10011.状态.飞鹤可触发": 1105110
 	},
 	"SkillIconTags": [],
@@ -3301,6 +3221,105 @@
 	"ButtonType": 8,
 	"ActionType": 8,
 	"SkillId": 1305061,
+	"SkillIdTagMap": {},
+	"SkillIconTags": [],
+	"EnableTags": [],
+	"DisableTags": [
+		"功能.功能制作.被击硬直时间",
+		"战斗状态.技能限制.禁止大招",
+		"行为状态.位置状态.空中"
+	],
+	"DisableSkillIdTags": {},
+	"HiddenTags": [
+		"功能.功能制作.隐藏按钮功能.隐藏大招按键"
+	],
+	"IsCdVisible": true,
+	"AttributeId": 60,
+	"MaxAttributeId": 59,
+	"AttributeIdTagMap": {},
+	"MaxAttributeBurstEffectId": 0,
+	"CdCompletedEffectId": 0,
+	"IsLongPressControlCamera": false,
+	"LongPressTime": 0,
+	"DynamicEffectTagMap": {}
+},
+{
+	"Id": 11061002,
+	"RoleId": 1106,
+	"Name": "攻击",
+	"ButtonType": 4,
+	"ActionType": 4,
+	"SkillId": 1106001,
+	"SkillIdTagMap": {
+		"角色.R2T1YouHuMd10011.逻辑.替换技能.破花瓶": 1106110,
+		"角色.R2T1YouHuMd10011.逻辑.替换技能.编钟": 1106120,
+		"角色.R2T1YouHuMd10011.逻辑.替换技能.如意": 1106130,
+		"角色.R2T1YouHuMd10011.逻辑.替换技能.鼎": 1106140,
+		"角色.R2T1YouHuMd10011.逻辑.替换技能.面具": 1106150
+	},
+	"SkillIconTags": [],
+	"EnableTags": [],
+	"DisableTags": [
+		"战斗状态.技能限制.禁止普攻",
+		"行为状态.逻辑状态.控物.控物空中投掷禁止"
+	],
+	"DisableSkillIdTags": {},
+	"HiddenTags": [],
+	"IsCdVisible": true,
+	"AttributeId": 0,
+	"MaxAttributeId": 0,
+	"AttributeIdTagMap": {},
+	"MaxAttributeBurstEffectId": 0,
+	"CdCompletedEffectId": 0,
+	"IsLongPressControlCamera": false,
+	"LongPressTime": 0,
+	"DynamicEffectTagMap": {
+		"角色.R2T1YouHuMd10011.逻辑.替换技能.破花瓶": 11041004,
+		"角色.R2T1YouHuMd10011.逻辑.替换技能.编钟": 11041004,
+		"角色.R2T1YouHuMd10011.逻辑.替换技能.如意": 11041004,
+		"角色.R2T1YouHuMd10011.逻辑.替换技能.鼎": 11041004,
+		"角色.R2T1YouHuMd10011.逻辑.替换技能.面具": 11041004
+	}
+},
+{
+	"Id": 11061004,
+	"RoleId": 1106,
+	"Name": "共鸣技能",
+	"ButtonType": 6,
+	"ActionType": 6,
+	"SkillId": 1106103,
+	"SkillIdTagMap": {},
+	"SkillIconTags": [],
+	"EnableTags": [
+		"角色.Common.技能通用标识.控物拼图旋转.可用"
+	],
+	"DisableTags": [
+		"功能.功能制作.被击硬直时间",
+		"战斗状态.技能限制.禁止E技能",
+		"行为状态.位置状态.空中",
+		"角色.Common.技能通用标识.控物拼图旋转.不可用"
+	],
+	"DisableSkillIdTags": {},
+	"HiddenTags": [
+		"功能.功能制作.隐藏按钮功能.隐藏技能按键"
+	],
+	"IsCdVisible": true,
+	"AttributeId": 0,
+	"MaxAttributeId": 0,
+	"AttributeIdTagMap": {},
+	"MaxAttributeBurstEffectId": 0,
+	"CdCompletedEffectId": 0,
+	"IsLongPressControlCamera": false,
+	"LongPressTime": 0,
+	"DynamicEffectTagMap": {}
+},
+{
+	"Id": 11061006,
+	"RoleId": 1106,
+	"Name": "共鸣解放",
+	"ButtonType": 8,
+	"ActionType": 8,
+	"SkillId": 1106200,
 	"SkillIdTagMap": {},
 	"SkillIconTags": [],
 	"EnableTags": [],

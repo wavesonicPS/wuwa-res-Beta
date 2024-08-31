@@ -199,8 +199,8 @@
 	"MaxLevel": 3,
 	"Icon": "/Game/Aki/UI/UIResources/Common/Image/IconRouge/T_IconRouge_052_UI.T_IconRouge_052_UI",
 	"Name": "RogueBuffPool_11012005_BuffName",
-	"BriefDescribe": "RogueBuffPool_11012005_BuffDesc",
-	"Describe": "RogueBuffPool_11012005_BuffDesc_1",
+	"BriefDescribe": "RogueBuffPool_11012007_BuffDesc",
+	"Describe": "RogueBuffPool_11012007_BuffDesc_1",
 	"StoryDescribe": "RogueBuffPool_11012005_BuffDesc_0"
 },
 {
@@ -211,8 +211,8 @@
 	"MaxLevel": 3,
 	"Icon": "/Game/Aki/UI/UIResources/Common/Image/IconRouge/T_IconRouge_047_UI.T_IconRouge_047_UI",
 	"Name": "RogueBuffPool_11012006_BuffName",
-	"BriefDescribe": "RogueBuffPool_11012006_BuffDesc",
-	"Describe": "RogueBuffPool_11012006_BuffDesc_1",
+	"BriefDescribe": "RogueBuffPool_11012007_BuffDesc",
+	"Describe": "RogueBuffPool_11012007_BuffDesc_1",
 	"StoryDescribe": "RogueBuffPool_11012006_BuffDesc_0"
 },
 {
@@ -235,8 +235,8 @@
 	"MaxLevel": 3,
 	"Icon": "/Game/Aki/UI/UIResources/Common/Image/IconRouge/T_IconRouge_051_UI.T_IconRouge_051_UI",
 	"Name": "RogueBuffPool_11012008_BuffName",
-	"BriefDescribe": "RogueBuffPool_11012008_BuffDesc",
-	"Describe": "RogueBuffPool_11012008_BuffDesc_1",
+	"BriefDescribe": "RogueBuffPool_11012007_BuffDesc",
+	"Describe": "RogueBuffPool_11012007_BuffDesc_1",
 	"StoryDescribe": "RogueBuffPool_11012008_BuffDesc_0"
 },
 {
@@ -247,8 +247,8 @@
 	"MaxLevel": 3,
 	"Icon": "/Game/Aki/UI/UIResources/Common/Image/IconRouge/T_IconRouge_054_UI.T_IconRouge_054_UI",
 	"Name": "RogueBuffPool_11012009_BuffName",
-	"BriefDescribe": "RogueBuffPool_11012009_BuffDesc",
-	"Describe": "RogueBuffPool_11012009_BuffDesc_1",
+	"BriefDescribe": "RogueBuffPool_11012007_BuffDesc",
+	"Describe": "RogueBuffPool_11012007_BuffDesc_1",
 	"StoryDescribe": "RogueBuffPool_11012009_BuffDesc_0"
 }
 ]

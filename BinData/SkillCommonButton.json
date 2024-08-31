@@ -38,7 +38,9 @@
 	"SkillIdTagMap": {},
 	"SkillIconTags": [],
 	"EnableTags": [],
-	"DisableTags": [],
+	"DisableTags": [
+		"关卡.样条线跑墙.按键屏蔽"
+	],
 	"DisableSkillIdTags": {},
 	"HiddenTags": [],
 	"IsCdVisible": true,
@@ -57,7 +59,9 @@
 	"ButtonType": 5,
 	"ActionType": 5,
 	"SkillId": 100001,
-	"SkillIdTagMap": {},
+	"SkillIdTagMap": {
+		"角色.R2T1ShouanrenMd10011.buff标识.退场技.buff2": 100023
+	},
 	"SkillIconTags": [
 		"行为状态.位置状态.水中",
 		"幻象.声骸角色.叮咚咚.疾跑"
@@ -78,7 +82,9 @@
 	"CdCompletedEffectId": 0,
 	"IsLongPressControlCamera": true,
 	"LongPressTime": 300,
-	"DynamicEffectTagMap": {}
+	"DynamicEffectTagMap": {
+		"角色.R2T1ShouanrenMd10011.buff标识.退场技.buff2": 1002
+	}
 },
 {
 	"Id": 1003,
@@ -88,20 +94,21 @@
 	"SkillId": 0,
 	"SkillIdTagMap": {
 		"角色.Common.技能通用标识.定点钩索可用": 100020,
-		"角色.Common.技能通用标识.定点钩索": 100020
+		"角色.Common.技能通用标识.定点钩索": 100020,
+		"角色.Common.技能通用标识.岁光钩索可用": 100022
 	},
 	"SkillIconTags": [
 		"GameplayCue.幻象.控物.控物角色表现",
 		"角色.Common.技能通用标识.定点钩索可用",
 		"角色.Common.技能通用标识.定点钩索",
-		"角色.Common.技能通用标识.拉取巨物进入范围"
+		"角色.Common.技能通用标识.拉取巨物进入范围",
+		"角色.Common.技能通用标识.岁光钩索可用"
 	],
 	"EnableTags": [],
 	"DisableTags": [
 		"功能.功能制作.被击硬直时间",
 		"战斗状态.技能限制.禁止探索幻象技能",
 		"行为状态.逻辑状态.控物.空中控物通用",
-		"角色.Common.探索技能.禁用自由钩锁",
 		"行为状态.动作状态.受击.被抓取"
 	],
 	"DisableSkillIdTags": {
@@ -112,9 +119,7 @@
 		},
 		"行为状态.位置状态.攀爬": {
 			"ArrayInt": [
-				210003,
-				210008,
-				210011
+				210020
 			]
 		},
 		"行为状态.位置状态.空中": {
@@ -125,7 +130,57 @@
 		},
 		"行为状态.位置状态.水中": {
 			"ArrayInt": [
-				210008
+				210020
+			]
+		},
+		"角色.Common.探索技能.禁用辅助机": {
+			"ArrayInt": [
+				210020
+			]
+		},
+		"角色.Common.BUFF通用标识.禁止瞄准模式": {
+			"ArrayInt": [
+				210020
+			]
+		},
+		"行为状态.逻辑状态.技能中.全身动作": {
+			"ArrayInt": [
+				210020
+			]
+		},
+		"行为状态.动作状态.受击": {
+			"ArrayInt": [
+				210020
+			]
+		},
+		"行为状态.动作状态.快速攀爬": {
+			"ArrayInt": [
+				210020
+			]
+		},
+		"行为状态.动作状态.正常攀爬": {
+			"ArrayInt": [
+				210020
+			]
+		},
+		"功能.功能制作.瞄准模式.瞄准蓄力": {
+			"ArrayInt": [
+				210020
+			]
+		},
+		"功能.功能制作.瞄准模式.通用瞄准进入": {
+			"ArrayInt": [
+				210020
+			]
+		},
+		"功能.功能制作.瞄准模式.瞄准键进入": {
+			"ArrayInt": [
+				210020
+			]
+		},
+		"角色.BaseRole.技能通用标识.幻象变身中": {
+			"ArrayInt": [
+				210020
 			]
 		}
 	},
@@ -146,7 +201,8 @@
 		"角色.Common.技能通用标识.探索技能高亮": 1001,
 		"角色.Common.技能通用标识.拉取巨物可用": 1002,
 		"行为状态.逻辑状态.拍照装备中": 1003,
-		"关卡.时停状态.进入时停": 1003012
+		"关卡.时停状态.进入时停": 1003012,
+		"角色.Common.技能通用标识.岁光钩索可用": 1002
 	}
 },
 {

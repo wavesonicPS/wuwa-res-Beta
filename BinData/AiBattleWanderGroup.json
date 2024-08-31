@@ -3045,12 +3045,106 @@
 	],
 	"RunTurnSpeed": 360,
 	"WanderTime": {
-		"Min": 3000,
-		"Max": 5000
+		"Min": 2000,
+		"Max": 3000
 	},
 	"SumWanderTime": {
-		"Min": 3000,
-		"Max": 5000
+		"Min": 2000,
+		"Max": 4000
+	},
+	"OnlyForward": false
+},
+{
+	"Id": 70133,
+	"DistanceRange": [
+		100,
+		300,
+		600,
+		800,
+		1500
+	],
+	"NearActionRates": [
+		0,
+		0,
+		50,
+		50,
+		0
+	],
+	"MiddleActionRates": [
+		20,
+		0,
+		40,
+		40,
+		0
+	],
+	"FarActionRates": [
+		100,
+		0,
+		0,
+		0,
+		0
+	],
+	"TurnSpeeds": [
+		480,
+		480,
+		480,
+		480
+	],
+	"RunTurnSpeed": 360,
+	"WanderTime": {
+		"Min": 2000,
+		"Max": 2100
+	},
+	"SumWanderTime": {
+		"Min": 4000,
+		"Max": 4100
+	},
+	"OnlyForward": false
+},
+{
+	"Id": 70134,
+	"DistanceRange": [
+		100,
+		300,
+		600,
+		800,
+		1500
+	],
+	"NearActionRates": [
+		0,
+		0,
+		50,
+		50,
+		0
+	],
+	"MiddleActionRates": [
+		20,
+		0,
+		40,
+		40,
+		0
+	],
+	"FarActionRates": [
+		100,
+		0,
+		0,
+		0,
+		0
+	],
+	"TurnSpeeds": [
+		480,
+		480,
+		480,
+		480
+	],
+	"RunTurnSpeed": 360,
+	"WanderTime": {
+		"Min": 2000,
+		"Max": 2100
+	},
+	"SumWanderTime": {
+		"Min": 4000,
+		"Max": 4100
 	},
 	"OnlyForward": false
 }

@@ -102,7 +102,7 @@
 {
 	"TaskId": 110,
 	"TaskName": "LivenessTask_110_TaskName",
-	"UpdateType": 1,
+	"UpdateType": 0,
 	"TaskReward": {
 		"9": 20
 	},
@@ -112,7 +112,7 @@
 		"-3"
 	],
 	"UnlockCondition": 12005106,
-	"SortRank": 4
+	"SortRank": 1
 },
 {
 	"TaskId": 105,
@@ -364,7 +364,7 @@
 	"TaskName": "LivenessTask_127_TaskName",
 	"UpdateType": 1,
 	"TaskReward": {
-		"9": 20
+		"9": 60
 	},
 	"TaskFunc": [
 		"1"

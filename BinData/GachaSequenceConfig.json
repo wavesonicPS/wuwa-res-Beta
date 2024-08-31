@@ -90,5 +90,13 @@
 {
 	"Id": 1604,
 	"SequencePath": "/Game/Aki/Sequence/LevelA_Seq/DrawCard/01_2/NvZhu/D0009_All.D0009_All"
+},
+{
+	"Id": 1305,
+	"SequencePath": "/Game/Aki/Sequence/LevelA_Seq/DrawCard/01_2/XiangLiYao/D0004_All.D0004_All"
+},
+{
+	"Id": 1105,
+	"SequencePath": "/Game/Aki/Sequence/LevelA_Seq/DrawCard/01_2/ZheZhi/D0003_All.D0003_All"
 }
 ]

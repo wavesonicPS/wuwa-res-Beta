@@ -305870,5 +305870,383 @@
 	],
 	"FetterGroupId": 8,
 	"SkinItemId": 0
+},
+{
+	"Id": 900000001,
+	"Level": 25,
+	"MainProp": {
+		"Id": 23,
+		"Value": 840,
+		"IsRatio": false
+	},
+	"BreachProp": {
+		"Id": 0,
+		"Value": 0,
+		"IsRatio": false
+	},
+	"SubProp": [
+		{
+			"Id": 10007,
+			"Value": 187,
+			"IsRatio": true
+		}
+	],
+	"MainProps": [
+		105001,
+		150001
+	],
+	"MainPropGrowth": 1,
+	"SubProps": [
+		{
+			"ArrayInt": [
+				1
+			]
+		}
+	],
+	"SubPropList": [
+		100001,
+		100002,
+		100011,
+		100012,
+		100013
+	],
+	"FetterGroupId": 2,
+	"SkinItemId": 0
+},
+{
+	"Id": 900000002,
+	"Level": 25,
+	"MainProp": {
+		"Id": 23,
+		"Value": 840,
+		"IsRatio": false
+	},
+	"BreachProp": {
+		"Id": 0,
+		"Value": 0,
+		"IsRatio": false
+	},
+	"SubProp": [
+		{
+			"Id": 10007,
+			"Value": 187,
+			"IsRatio": true
+		}
+	],
+	"MainProps": [
+		105008,
+		150003
+	],
+	"MainPropGrowth": 1,
+	"SubProps": [
+		{
+			"ArrayInt": [
+				1
+			]
+		}
+	],
+	"SubPropList": [
+		100001,
+		100002,
+		100012,
+		100011,
+		100004
+	],
+	"FetterGroupId": 2,
+	"SkinItemId": 0
+},
+{
+	"Id": 900000003,
+	"Level": 25,
+	"MainProp": {
+		"Id": 23,
+		"Value": 840,
+		"IsRatio": false
+	},
+	"BreachProp": {
+		"Id": 0,
+		"Value": 0,
+		"IsRatio": false
+	},
+	"SubProp": [
+		{
+			"Id": 10007,
+			"Value": 187,
+			"IsRatio": true
+		}
+	],
+	"MainProps": [
+		105017,
+		150002
+	],
+	"MainPropGrowth": 1,
+	"SubProps": [
+		{
+			"ArrayInt": [
+				1
+			]
+		}
+	],
+	"SubPropList": [
+		100001,
+		100002,
+		100004,
+		100011,
+		100012
+	],
+	"FetterGroupId": 2,
+	"SkinItemId": 0
+},
+{
+	"Id": 900000004,
+	"Level": 25,
+	"MainProp": {
+		"Id": 23,
+		"Value": 840,
+		"IsRatio": false
+	},
+	"BreachProp": {
+		"Id": 0,
+		"Value": 0,
+		"IsRatio": false
+	},
+	"SubProp": [
+		{
+			"Id": 10007,
+			"Value": 187,
+			"IsRatio": true
+		}
+	],
+	"MainProps": [
+		105001,
+		150001
+	],
+	"MainPropGrowth": 1,
+	"SubProps": [
+		{
+			"ArrayInt": [
+				1
+			]
+		}
+	],
+	"SubPropList": [
+		100001,
+		100002,
+		100011,
+		100012,
+		100013
+	],
+	"FetterGroupId": 3,
+	"SkinItemId": 0
+},
+{
+	"Id": 900000005,
+	"Level": 25,
+	"MainProp": {
+		"Id": 23,
+		"Value": 840,
+		"IsRatio": false
+	},
+	"BreachProp": {
+		"Id": 0,
+		"Value": 0,
+		"IsRatio": false
+	},
+	"SubProp": [
+		{
+			"Id": 10007,
+			"Value": 187,
+			"IsRatio": true
+		}
+	],
+	"MainProps": [
+		105009,
+		150003
+	],
+	"MainPropGrowth": 1,
+	"SubProps": [
+		{
+			"ArrayInt": [
+				1
+			]
+		}
+	],
+	"SubPropList": [
+		100001,
+		100002,
+		100012,
+		100011,
+		100004
+	],
+	"FetterGroupId": 3,
+	"SkinItemId": 0
+},
+{
+	"Id": 900000006,
+	"Level": 25,
+	"MainProp": {
+		"Id": 23,
+		"Value": 840,
+		"IsRatio": false
+	},
+	"BreachProp": {
+		"Id": 0,
+		"Value": 0,
+		"IsRatio": false
+	},
+	"SubProp": [
+		{
+			"Id": 10007,
+			"Value": 187,
+			"IsRatio": true
+		}
+	],
+	"MainProps": [
+		105017,
+		150002
+	],
+	"MainPropGrowth": 1,
+	"SubProps": [
+		{
+			"ArrayInt": [
+				1
+			]
+		}
+	],
+	"SubPropList": [
+		100001,
+		100002,
+		100004,
+		100011,
+		100012
+	],
+	"FetterGroupId": 3,
+	"SkinItemId": 0
+},
+{
+	"Id": 900000007,
+	"Level": 25,
+	"MainProp": {
+		"Id": 23,
+		"Value": 840,
+		"IsRatio": false
+	},
+	"BreachProp": {
+		"Id": 0,
+		"Value": 0,
+		"IsRatio": false
+	},
+	"SubProp": [
+		{
+			"Id": 10007,
+			"Value": 187,
+			"IsRatio": true
+		}
+	],
+	"MainProps": [
+		105001,
+		150001
+	],
+	"MainPropGrowth": 1,
+	"SubProps": [
+		{
+			"ArrayInt": [
+				1
+			]
+		}
+	],
+	"SubPropList": [
+		100001,
+		100002,
+		100011,
+		100012,
+		100013
+	],
+	"FetterGroupId": 4,
+	"SkinItemId": 0
+},
+{
+	"Id": 900000008,
+	"Level": 25,
+	"MainProp": {
+		"Id": 23,
+		"Value": 840,
+		"IsRatio": false
+	},
+	"BreachProp": {
+		"Id": 0,
+		"Value": 0,
+		"IsRatio": false
+	},
+	"SubProp": [
+		{
+			"Id": 10007,
+			"Value": 187,
+			"IsRatio": true
+		}
+	],
+	"MainProps": [
+		105010,
+		150003
+	],
+	"MainPropGrowth": 1,
+	"SubProps": [
+		{
+			"ArrayInt": [
+				1
+			]
+		}
+	],
+	"SubPropList": [
+		100001,
+		100002,
+		100012,
+		100011,
+		100004
+	],
+	"FetterGroupId": 4,
+	"SkinItemId": 0
+},
+{
+	"Id": 900000009,
+	"Level": 25,
+	"MainProp": {
+		"Id": 23,
+		"Value": 840,
+		"IsRatio": false
+	},
+	"BreachProp": {
+		"Id": 0,
+		"Value": 0,
+		"IsRatio": false
+	},
+	"SubProp": [
+		{
+			"Id": 10007,
+			"Value": 187,
+			"IsRatio": true
+		}
+	],
+	"MainProps": [
+		105017,
+		150002
+	],
+	"MainPropGrowth": 1,
+	"SubProps": [
+		{
+			"ArrayInt": [
+				1
+			]
+		}
+	],
+	"SubPropList": [
+		100001,
+		100002,
+		100004,
+		100011,
+		100012
+	],
+	"FetterGroupId": 4,
+	"SkinItemId": 0
 }
 ]

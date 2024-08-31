@@ -802,5 +802,77 @@
 	"PhantomId": [],
 	"FirstDropId": 0,
 	"AdditionalId": 14010
+},
+{
+	"Id": 30020006,
+	"Name": "MapMark_4025_MarkTitle",
+	"GuideId": 2,
+	"LevelPlayList": [
+		221750000
+	],
+	"InstanceSubTypeDescription": "InpuBoxText_empty",
+	"DangerType": 3,
+	"Secondary": 61,
+	"TypeDescription2": 61,
+	"MatType": 0,
+	"AttributesDescriptionLock": "MapMark_4025_MarkDesc",
+	"AttributesDescriptionUnlock": "MapMark_4025_MarkDesc",
+	"BigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_321_1_UI.T_IconMonsterGoods_321_1_UI",
+	"Icon": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI",
+	"LockBigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_321_1_UI.T_IconMonsterGoods_321_1_UI",
+	"TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI",
+	"TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_001_UI.T_ImgCopy_001_UI",
+	"ShowReward": 48606,
+	"ShowRewardMap": {
+		"1": 48601,
+		"2": 48602,
+		"3": 48603,
+		"4": 48604,
+		"5": 48605,
+		"6": 48606
+	},
+	"BeginTimeStamp": 0,
+	"MarkId": 4025,
+	"LockCon": 12005127,
+	"PhantomId": [],
+	"FirstDropId": 0,
+	"AdditionalId": 15010
+},
+{
+	"Id": 30000010,
+	"Name": "MonsterInfo_330000070_Name",
+	"GuideId": 3,
+	"LevelPlayList": [
+		136750513
+	],
+	"InstanceSubTypeDescription": "InpuBoxText_empty",
+	"DangerType": 3,
+	"Secondary": 21,
+	"TypeDescription2": 21,
+	"MatType": 0,
+	"AttributesDescriptionLock": "MonsterInfo_330000070_UndiscoveredDes",
+	"AttributesDescriptionUnlock": "MonsterInfo_330000070_DiscoveredDes",
+	"BigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_350_UI.T_IconMonsterHead_350_UI",
+	"Icon": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI",
+	"LockBigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_350_UI.T_IconMonsterHead_350_UI",
+	"TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_350_UI.T_IconMonsterHead_350_UI",
+	"TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_350_UI.T_IconMonsterHead_350_UI",
+	"ShowReward": 10208,
+	"ShowRewardMap": {
+		"1": 10201,
+		"2": 10202,
+		"3": 10203,
+		"4": 10204,
+		"5": 10205,
+		"6": 10206,
+		"7": 10207,
+		"8": 10208
+	},
+	"BeginTimeStamp": 0,
+	"MarkId": 5032,
+	"LockCon": 12005128,
+	"PhantomId": [],
+	"FirstDropId": 0,
+	"AdditionalId": 0
 }
 ]

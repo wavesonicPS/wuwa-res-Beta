@@ -5,14 +5,14 @@
 	"PermanentTarget": true,
 	"ActivityButtonType": 0,
 	"RewardList": [],
-	"FocusMarkId": 400001,
+	"FocusMarkId": 380033,
 	"StageQuestTips": "Moonfiesta_ActivityCondition",
 	"StageQuestId": 125900000
 },
 {
 	"Id": 101700002,
 	"ActivityReward": false,
-	"PermanentTarget": true,
+	"PermanentTarget": false,
 	"ActivityButtonType": 1,
 	"RewardList": [],
 	"FocusMarkId": 0,

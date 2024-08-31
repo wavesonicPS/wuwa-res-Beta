@@ -45,7 +45,7 @@
 	"PointItem": 80100002,
 	"PointItemMaxCount": 100000,
 	"TokenItem": 80100001,
-	"WeekTokenMaxCount": 5200,
+	"WeekTokenMaxCount": 7200,
 	"SkillPoint": 80100003,
 	"SkillPointMaxCount": 600,
 	"InsideCurrency": 80100000,
@@ -82,9 +82,9 @@
 	"PointItem": 80100002,
 	"PointItemMaxCount": 100000,
 	"TokenItem": 80100001,
-	"WeekTokenMaxCount": 5200,
+	"WeekTokenMaxCount": 7200,
 	"SkillPoint": 80100003,
-	"SkillPointMaxCount": 550,
+	"SkillPointMaxCount": 850,
 	"InsideCurrency": 80100000,
 	"GuideInstArray": [
 		8100
@@ -98,7 +98,8 @@
 		8013,
 		8014,
 		8015,
-		8016
+		8016,
+		8017
 	],
 	"DungeonRoleOpenTimeMap": {
 		"5200060": 1071,

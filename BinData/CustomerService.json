@@ -5,6 +5,9 @@
 	"Language": [
 		"all"
 	],
+	"PackageId": [
+		"all"
+	],
 	"Channel": [
 		18,
 		19,
@@ -18,6 +21,9 @@
 	"Id": 2,
 	"PackageType": 1,
 	"Language": [
+		"all"
+	],
+	"PackageId": [
 		"all"
 	],
 	"Channel": [

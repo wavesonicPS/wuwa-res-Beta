@@ -73,8 +73,8 @@
 },
 {
 	"Id": 2006,
-	"TeamColdTime": 8000,
-	"CharacterColdTime": 12000,
+	"TeamColdTime": 30000,
+	"CharacterColdTime": 45000,
 	"PostProbability": 100
 },
 {
