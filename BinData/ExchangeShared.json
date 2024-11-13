@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 1,
+    "MaxCount": 3,
+    "Cost": {
+      "5": 60
+    },
+    "ResetTimeId": 2
+  },
+  {
+    "Id": 2,
+    "MaxCount": 1,
+    "Cost": {
+      "5": 10
+    },
+    "ResetTimeId": 3
+  }
+]

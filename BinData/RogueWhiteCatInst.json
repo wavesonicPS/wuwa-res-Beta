@@ -1,0 +1,38 @@
+[
+{
+	"Id": 1,
+	"InstId": 8406,
+	"UnlockDay": 0,
+	"TrialRoleId": 5200109
+},
+{
+	"Id": 2,
+	"InstId": 8405,
+	"UnlockDay": 0,
+	"TrialRoleId": 5200112
+},
+{
+	"Id": 3,
+	"InstId": 8402,
+	"UnlockDay": 0,
+	"TrialRoleId": 5200113
+},
+{
+	"Id": 4,
+	"InstId": 8403,
+	"UnlockDay": 0,
+	"TrialRoleId": 5200108
+},
+{
+	"Id": 5,
+	"InstId": 8404,
+	"UnlockDay": 0,
+	"TrialRoleId": 5200111
+},
+{
+	"Id": 6,
+	"InstId": 8401,
+	"UnlockDay": 0,
+	"TrialRoleId": 5200110
+}
+]

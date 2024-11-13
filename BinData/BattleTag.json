@@ -1,0 +1,182 @@
+[
+{
+	"Id": 1,
+	"Desc": "怪物落地",
+	"AddTag": "怪物.common.关卡.通信专用.幻象落地开启",
+	"FinishTag": ""
+},
+{
+	"Id": 3,
+	"Desc": "开始巡逻",
+	"AddTag": "怪物.common.关卡.通信专用.开始巡逻",
+	"FinishTag": ""
+},
+{
+	"Id": 4,
+	"Desc": "结束巡逻",
+	"AddTag": "怪物.common.关卡.通信专用.结束巡逻",
+	"FinishTag": ""
+},
+{
+	"Id": 5,
+	"Desc": "信号1",
+	"AddTag": "怪物.common.关卡.通信专用.信号1",
+	"FinishTag": ""
+},
+{
+	"Id": 6,
+	"Desc": "信号2",
+	"AddTag": "怪物.common.关卡.通信专用.信号2",
+	"FinishTag": ""
+},
+{
+	"Id": 7,
+	"Desc": "信号3",
+	"AddTag": "怪物.common.关卡.通信专用.信号3",
+	"FinishTag": ""
+},
+{
+	"Id": 8,
+	"Desc": "领主挑战.哀声孤鸳.进战",
+	"AddTag": "怪物.AiShengGuYuan.领主挑战出生结束",
+	"FinishTag": ""
+},
+{
+	"Id": 9,
+	"Desc": "怪物朝目标点移动",
+	"AddTag": "怪物.common.关卡.朝目标点移动.跑",
+	"FinishTag": ""
+},
+{
+	"Id": 10,
+	"Desc": "怪物脱战销毁表演",
+	"AddTag": "怪物.common.关卡.通信专用.销毁表演开始",
+	"FinishTag": "怪物.common.关卡.通信专用.销毁表演结束"
+},
+{
+	"Id": 800001,
+	"Desc": "BOSS进入战斗状态",
+	"AddTag": "怪物.ML1QunnieMd00401.关卡.信号1",
+	"FinishTag": "怪物.ML1QunnieMd00401.关卡.信号1"
+},
+{
+	"Id": 11,
+	"Desc": "屏障封锁解除",
+	"AddTag": "怪物.common.关卡.通信专用.屏障解除",
+	"FinishTag": ""
+},
+{
+	"Id": 900001,
+	"Desc": "岁光切换氛围",
+	"AddTag": "怪物.MB1SuiguangMd00501.转阶段氛围切换",
+	"FinishTag": "怪物.MB1SuiguangMd00501.转阶段氛围切换"
+},
+{
+	"Id": 900002,
+	"Desc": "岁光转阶段seq结束",
+	"AddTag": "怪物.MB1SuiguangMd00501.转阶段seq结束",
+	"FinishTag": "怪物.MB1SuiguangMd00501.转阶段seq结束"
+},
+{
+	"Id": 12,
+	"Desc": "偷听玩法.常态",
+	"AddTag": "怪物.common.关卡.偷听玩法.常态",
+	"FinishTag": ""
+},
+{
+	"Id": 13,
+	"Desc": "偷听玩法.剧情中",
+	"AddTag": "怪物.common.关卡.偷听玩法.剧情中",
+	"FinishTag": ""
+},
+{
+	"Id": 14,
+	"Desc": "偷听玩法.剧情结束",
+	"AddTag": "怪物.common.关卡.偷听玩法.剧情结束",
+	"FinishTag": ""
+},
+{
+	"Id": 700001,
+	"Desc": "1.2Boss放特殊技能",
+	"AddTag": "怪物.ML1QunnieMd00401.关卡.信号2",
+	"FinishTag": "怪物.ML1QunnieMd00401.关卡.信号2"
+},
+{
+	"Id": 700002,
+	"Desc": "1.2Boss弹出对话",
+	"AddTag": "怪物.ML1QunnieMd00401.关卡.信号1",
+	"FinishTag": "怪物.ML1QunnieMd00401.关卡.信号1"
+},
+{
+	"Id": 700003,
+	"Desc": "1.2Boss处决演出",
+	"AddTag": "怪物.ML1QunnieMd00401.关卡.信号3",
+	"FinishTag": "怪物.ML1QunnieMd00401.关卡.信号3"
+},
+{
+	"Id": 700004,
+	"Desc": "1.2Boss首次倒地",
+	"AddTag": "怪物.ML1QunnieMd00401.关卡.信号4",
+	"FinishTag": "怪物.ML1QunnieMd00401.关卡.信号4"
+},
+{
+	"Id": 750001,
+	"Desc": "进入战斗",
+	"AddTag": "行为状态.逻辑状态.进入战斗",
+	"FinishTag": "行为状态.逻辑状态.进入战斗"
+},
+{
+	"Id": 750002,
+	"Desc": "讨伐报告用关卡回调",
+	"AddTag": "怪物.common.关卡.讨伐报告.关卡回调",
+	"FinishTag": "怪物.common.关卡.讨伐报告.关卡回调"
+},
+{
+	"Id": 750003,
+	"Desc": "谬误转阶段",
+	"AddTag": "怪物.ML1MiuwuMd00501.转阶段",
+	"FinishTag": "怪物.ML1MiuwuMd00501.转阶段"
+},
+{
+	"Id": 750004,
+	"Desc": "谬误进入战斗状态",
+	"AddTag": "怪物.ML1MiuwuMd00501.一阶段",
+	"FinishTag": "怪物.ML1MiuwuMd00501.一阶段"
+},
+{
+	"Id": 800002,
+	"Desc": "系统.副本.通信.状态1",
+	"AddTag": "系统.副本.通信.状态1",
+	"FinishTag": "系统.副本.通信.状态1"
+},
+{
+	"Id": 800003,
+	"Desc": "系统.副本.通信.状态2",
+	"AddTag": "系统.副本.通信.状态2",
+	"FinishTag": "系统.副本.通信.状态2"
+},
+{
+	"Id": 800004,
+	"Desc": "系统.副本.通信.状态3",
+	"AddTag": "系统.副本.通信.状态3",
+	"FinishTag": "系统.副本.通信.状态3"
+},
+{
+	"Id": 800005,
+	"Desc": "系统.副本.通信.状态4",
+	"AddTag": "系统.副本.通信.状态4",
+	"FinishTag": "系统.副本.通信.状态4"
+},
+{
+	"Id": 800006,
+	"Desc": "系统.副本.通信.状态5",
+	"AddTag": "系统.副本.通信.状态5",
+	"FinishTag": "系统.副本.通信.状态5"
+},
+{
+	"Id": 800007,
+	"Desc": "系统.副本.通信.状态6",
+	"AddTag": "系统.副本.通信.状态6",
+	"FinishTag": "系统.副本.通信.状态6"
+}
+]

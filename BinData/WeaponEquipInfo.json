@@ -1,0 +1,218 @@
+[   
+    {
+        "id": 21020026,
+        "incrId": 1,
+        "weaponLevel": 90,
+        "weaponXp": 100000,
+        "weaponBreach": 6,
+        "weaponResonLevel": 5,
+        "roleId": 1603
+    },
+    {
+        "id": 21010015,
+        "incrId": 1,
+        "weaponLevel": 90,
+        "weaponXp": 100000,
+        "weaponBreach": 6,
+        "weaponResonLevel": 5,
+        "roleId": 1301
+    },
+    {
+        "id": 21010016,
+        "incrId": 2,
+        "weaponLevel": 90,
+        "weaponXp": 100000,
+        "weaponBreach": 6,
+        "weaponResonLevel": 5,
+        "roleId": 1304
+    },
+    {
+        "id": 21010026,
+        "incrId": 3,
+        "weaponLevel": 90,
+        "weaponXp": 100000,
+        "weaponBreach": 6,
+        "weaponResonLevel": 5,
+        "roleId": 1404
+    },
+    {
+        "id": 21010074,
+        "incrId": 4,
+        "weaponLevel": 90,
+        "weaponXp": 100000,
+        "weaponBreach": 6,
+        "weaponResonLevel": 5,
+        "roleId": 1601
+    },
+    {
+        "id": 21020015,
+        "incrId": 5,
+        "weaponLevel": 90,
+        "weaponXp": 100000,
+        "weaponBreach": 6,
+        "weaponResonLevel": 5,
+        "roleId": 1102
+    },
+    {
+        "id": 21020016,
+        "incrId": 6,
+        "weaponLevel": 90,
+        "weaponXp": 100000,
+        "weaponBreach": 6,
+        "weaponResonLevel": 5,
+        "roleId": 1205
+    },
+    {
+        "id": 21020024,
+        "incrId": 7,
+        "weaponLevel": 90,
+        "weaponXp": 100000,
+        "weaponBreach": 6,
+        "weaponResonLevel": 5,
+        "roleId": 1402
+    },
+    {
+        "id": 21020016,
+        "incrId": 8,
+        "weaponLevel": 90,
+        "weaponXp": 100000,
+        "weaponBreach": 6,
+        "weaponResonLevel": 1,
+        "roleId": 1602
+    },
+    {
+        "id": 21020084,
+        "incrId": 9,
+        "weaponLevel": 90,
+        "weaponXp": 100000,
+        "weaponBreach": 6,
+        "weaponResonLevel": 2,
+        "roleId": 1604
+    },
+    {
+        "id": 21020015,
+        "incrId": 10,
+        "weaponLevel": 90,
+        "weaponXp": 100000,
+        "weaponBreach": 6,
+        "weaponResonLevel": 3,
+        "roleId": 1605
+    },
+    {
+        "id": 21030015,
+        "incrId": 11,
+        "weaponLevel": 90,
+        "weaponXp": 100000,
+        "weaponBreach": 6,
+        "weaponResonLevel": 5,
+        "roleId": 1202
+    },
+    {
+        "id": 21030015,
+        "incrId": 12,
+        "weaponLevel": 90,
+        "weaponXp": 100000,
+        "weaponBreach": 6,
+        "weaponResonLevel": 4,
+        "roleId": 1204
+    },
+    {
+        "id": 21030015,
+        "incrId": 13,
+        "weaponLevel": 90,
+        "weaponXp": 100000,
+        "weaponBreach": 6,
+        "weaponResonLevel": 3,
+        "roleId": 1403
+    },
+    {
+        "id": 21040015,
+        "incrId": 14,
+        "weaponLevel": 90,
+        "weaponXp": 100000,
+        "weaponBreach": 6,
+        "weaponResonLevel": 5,
+        "roleId": 1104
+    },
+    {
+        "id": 21040024,
+        "incrId": 15,
+        "weaponLevel": 90,
+        "weaponXp": 100000,
+        "weaponBreach": 6,
+        "weaponResonLevel": 5,
+        "roleId": 1303
+    },
+    {
+        "id": 21040016,
+        "incrId": 16,
+        "weaponLevel": 90,
+        "weaponXp": 100000,
+        "weaponBreach": 6,
+        "weaponResonLevel": 5,
+        "roleId": 1305
+    },
+    {
+        "id": 21040024,
+        "incrId": 17,
+        "weaponLevel": 90,
+        "weaponXp": 100000,
+        "weaponBreach": 6,
+        "weaponResonLevel": 5,
+        "roleId": 1405
+    },
+    {
+        "id": 21050026,
+        "incrId": 18,
+        "weaponLevel": 90,
+        "weaponXp": 100000,
+        "weaponBreach": 6,
+        "weaponResonLevel": 5,
+        "roleId": 1105
+    },
+    {
+        "id": 21050016,
+        "incrId": 19,
+        "weaponLevel": 90,
+        "weaponXp": 100000,
+        "weaponBreach": 6,
+        "weaponResonLevel": 5,
+        "roleId": 1302
+    },
+    {
+        "id": 21050015,
+        "incrId": 20,
+        "weaponLevel": 90,
+        "weaponXp": 100000,
+        "weaponBreach": 6,
+        "weaponResonLevel": 5,
+        "roleId": 1203
+    },
+    {
+        "id": 21050024,
+        "incrId": 21,
+        "weaponLevel": 90,
+        "weaponXp": 100000,
+        "weaponBreach": 6,
+        "weaponResonLevel": 5,
+        "roleId": 1103
+    },
+    {
+        "id": 21050024,
+        "incrId": 22,
+        "weaponLevel": 90,
+        "weaponXp": 100000,
+        "weaponBreach": 6,
+        "weaponResonLevel": 5,
+        "roleId": 1503
+    },
+    {
+        "id": 21050036,
+        "incrId": 22,
+        "weaponLevel": 90,
+        "weaponXp": 100000,
+        "weaponBreach": 6,
+        "weaponResonLevel": 5,
+        "roleId": 1505
+    }
+]
